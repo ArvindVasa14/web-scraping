@@ -1,0 +1,981 @@
+,company_name,rating,description,highly rated for,critically rated for
+0,TCS,3.8,IT Services & Consulting | 1 Lakh+ Employees | Public | 56 years old | Mumbai +339 more,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+1,Accenture,4.0,IT Services & Consulting | 1 Lakh+ Employees | Public | 35 years old | Dublin +173 more,"Company Culture, Skill Development / Learning, Job Security",--
+2,Cognizant,3.9,IT Services & Consulting | 1 Lakh+ Employees | Forbes Global 2000 | 30 years old | Teaneck. New Jersey. +156 more,Skill Development / Learning,Promotions / Appraisal
+3,Wipro,3.8,IT Services & Consulting | 1 Lakh+ Employees | Public | 79 years old | Bangalore/Bengaluru +276 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+4,Capgemini,3.9,IT Services & Consulting | 1 Lakh+ Employees | Public | 57 years old | Paris +140 more,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+5,HDFC Bank,4.0,Banking | 1 Lakh+ Employees | Public | 30 years old | Mumbai +1534 more,"Job Security, Skill Development / Learning",Promotions / Appraisal
+6,ICICI Bank,4.0,Banking | 1 Lakh+ Employees | Public | 30 years old | Mumbai +1279 more,"Job Security, Skill Development / Learning, Company Culture",--
+7,Infosys,3.8,IT Services & Consulting | 1 Lakh+ Employees | Public | 43 years old | Bengaluru/Bangalore +181 more,"Job Security, Company Culture, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal"
+8,HCLTech,3.7,IT Services & Consulting | 1 Lakh+ Employees | Public | 33 years old | Noida +182 more,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+9,Tech Mahindra,3.7,IT Services & Consulting | 1 Lakh+ Employees | Public | 38 years old | Pune +263 more,--,"Promotions / Appraisal, Salary & Benefits"
+10,Genpact,3.9,IT Services & Consulting | 1 Lakh+ Employees | Public | 27 years old | New York +109 more,"Job Security, Skill Development / Learning, Work Life Balance","Salary & Benefits, Promotions / Appraisal"
+11,Axis Bank,3.9,Banking | 50k-1 Lakh Employees | Public | 31 years old | Mumbai +1297 more,Job Security,--
+12,Teleperformance,3.6,BPO | 50k-1 Lakh Employees | Forbes Global 2000 | 46 years old | Paris +181 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+13,Concentrix Corporation,3.9,BPO | 50k-1 Lakh Employees | Public | 41 years old | Fremont +114 more,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+14,Jio,4.0,Telecom | 50k-1 Lakh Employees | Public | 17 years old | Navi Mumbai +1172 more,"Job Security, Skill Development / Learning",Promotions / Appraisal
+15,Amazon,4.1,Internet | 1 Lakh+ Employees | Public | 30 years old | Seattle +439 more,"Company Culture, Salary & Benefits, Work Life Balance",--
+16,IBM,4.1,IT Services & Consulting | 1 Lakh+ Employees | Public | 113 years old | Armonk +144 more,"Work Life Balance, Job Security, Skill Development / Learning",Promotions / Appraisal
+17,Reliance Retail,4.0,Retail | 1 Lakh+ Employees | 18 years old | Navi Mumbai +992 more,"Skill Development / Learning, Job Security",Promotions / Appraisal
+18,HDB Financial Services,4.0,NBFC | 1 Lakh+ Employees | 17 years old | Ahmedabad +946 more,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal
+19,Larsen & Toubro Limited,4.1,Engineering & Construction | 10k-50k Employees | Public | 86 years old | Mumbai +620 more,"Job Security, Skill Development / Learning",--
+20,Vodafone Idea,4.2,Telecom | 5k-10k Employees | Public | 6 years old | Mumbai +641 more,"Company Culture, Work Life Balance, Salary & Benefits",--
+21,BYJU'S,3.1,EdTech | 10k-50k Employees | Indian Unicorn | 13 years old | Bangalore +305 more,--,"Job Security, Work Life Balance, Company Culture"
+22,Kotak Mahindra Bank,3.8,Banking | 50k-1 Lakh Employees | Public | 21 years old | Mumbai +563 more,Job Security,Promotions / Appraisal
+23,Deloitte,3.9,Management Consulting | 1 Lakh+ Employees | 179 years old | London +148 more,"Job Security, Skill Development / Learning, Salary & Benefits",--
+24,Reliance Industries,4.1,Oil & Gas | 1 Lakh+ Employees | Public | 47 years old | Navi Mumbai +678 more,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal
+25,iEnergizer,4.6,BPO | 10k-50k Employees | 24 years old | Noida +30 more,"Company Culture, Skill Development / Learning, Job Security",--
+26,Bharti Airtel,4.1,Telecom | 10k-50k Employees | Public | 29 years old | Gurgaon/Gurugram +653 more,"Skill Development / Learning, Job Security, Company Culture",--
+27,Tata Motors,4.2,Automobile | 10k-50k Employees | Public | 79 years old | Pune +426 more,"Job Security, Skill Development / Learning, Company Culture",--
+28,WNS,3.5,BPO | 10k-50k Employees | 28 years old | Mumbai +37 more,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+29,Flipkart,4.1,Internet | 10k-50k Employees | Public | 17 years old | Bangalore +512 more,"Skill Development / Learning, Company Culture, Job Security",--
+30,IndusInd Bank,3.7,Banking | 10k-50k Employees | Public | 30 years old | Gurgaon/Gurugram +680 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+31,Ernst & Young,3.6,Management Consulting | 50k-1 Lakh Employees | 22 years old | London +96 more,Job Security,"Work Life Balance, Work Satisfaction, Promotions / Appraisal"
+32,AU Small Finance Bank,4.5,Banking | 10k-50k Employees | Fortune India 500 | 28 years old | Jaipur +400 more,"Skill Development / Learning, Job Security, Company Culture",--
+33,Mahindra & Mahindra,4.2,Automobile | 1 Lakh+ Employees | Public | 79 years old | Mumbai +473 more,"Job Security, Skill Development / Learning, Company Culture",--
+34,Infosys BPM,3.8,BPO | 10k-50k Employees | 22 years old | Bangalore/Bengaluru +66 more,"Job Security, Company Culture, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal"
+35,DXC Technology,3.8,IT Services & Consulting | 10k-50k Employees | Public | 7 years old | Minato +81 more,Work Life Balance,"Promotions / Appraisal, Salary & Benefits"
+36,IDFC FIRST Bank,4.0,Banking | 10k-50k Employees | Public | 6 years old | Mumbai +577 more,"Salary & Benefits, Skill Development / Learning, Job Security",--
+37,Conneqt Business Solutions,3.7,BPO | 10k-50k Employees | 22 years old | Mumbai +221 more,--,"Promotions / Appraisal, Salary & Benefits"
+38,LTIMindtree,3.7,IT Services & Consulting | 50k-1 Lakh Employees | Public | 25 years old | Bangalore/Bengaluru +52 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+39,HDFC Life,4.1,Insurance | 10k-50k Employees | Public | 24 years old | Mumbai +555 more,"Skill Development / Learning, Job Security, Company Culture",--
+40,Bajaj Finserv,4.1,Financial Services | 50k-1 Lakh Employees | Public | 17 years old | Pune +875 more,"Salary & Benefits, Skill Development / Learning, Job Security",--
+41,Mphasis,3.5,IT Services & Consulting | 10k-50k Employees | Public | 26 years old | Bangalore/Bengaluru +50 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+42,PwC,3.6,Management Consulting | 10k-50k Employees | Conglomerate | 144 years old | London +92 more,Job Security,"Work Life Balance, Work Satisfaction, Promotions / Appraisal"
+43,Startek,3.3,BPO | 10k-50k Employees | Public | 7 years old | Mumbai +72 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+44,HSBC Group,4.1,Banking | 10k-50k Employees | Forbes Global 2000 | 22 years old | Pune +58 more,"Job Security, Work Life Balance, Company Culture",--
+45,Hinduja Global Solutions,4.0,IT Services & Consulting | 10k-50k Employees | Public | 24 years old | Bangalore/Bengaluru +100 more,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+46,Samsung,4.1,Consumer Electronics & Appliances | 50k-1 Lakh Employees | Public | 55 years old | Seoul +502 more,"Salary & Benefits, Skill Development / Learning, Job Security",--
+47,Ericsson,4.3,Telecom | 10k-50k Employees | Forbes Global 2000 | 148 years old | Stockholm +151 more,"Company Culture, Work Life Balance, Job Security",--
+48,Maruti Suzuki,4.3,Automobile | 10k-50k Employees | Public | 43 years old | New Delhi +377 more,"Job Security, Salary & Benefits, Skill Development / Learning",--
+49,Shriram Finance,4.1,NBFC | 50k-1 Lakh Employees | Public | 45 years old | Mumbai +953 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+50,Asian Paints,4.1,Chemicals | 5k-10k Employees | Public | 82 years old | Mumbai +431 more,"Salary & Benefits, Skill Development / Learning, Job Security",--
+51,Yes Bank,3.9,Banking | 10k-50k Employees | Public | 20 years old | Mumbai +438 more,"Salary & Benefits, Work Life Balance",--
+52,Cipla,4.1,Pharma | 10k-50k Employees | Public | 89 years old | Mumbai +235 more,"Skill Development / Learning, Salary & Benefits, Work Life Balance",--
+53,Sutherland Global Services,3.7,IT Services & Consulting | 10k-50k Employees | 38 years old | Pittsford +55 more,--,"Promotions / Appraisal, Salary & Benefits"
+54,Dr. Reddy's,4.2,Pharma | 10k-50k Employees | Public | 40 years old | Hyderabad/Secunderabad +163 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+55,Bandhan Bank,3.8,Banking | 50k-1 Lakh Employees | Public | 23 years old | Kolkata +758 more,Job Security,Promotions / Appraisal
+56,Paytm,3.5,FinTech | 10k-50k Employees | Public | 14 years old | Noida +313 more,--,"Job Security, Promotions / Appraisal, Company Culture"
+57,UltraTech Cement,4.2,Building Material | 10k-50k Employees | Public | 41 years old | Mumbai +432 more,"Job Security, Skill Development / Learning, Company Culture",--
+58,EXL Service,3.8,Analytics & KPO | 10k-50k Employees | 25 years old | New York City +45 more,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+59,NTT DATA,4.0,IT Services & Consulting | 10k-50k Employees | 36 years old | Chiyoda City +58 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+60,ICICI Prudential Life Insurance,4.1,Insurance | 10k-50k Employees | Public | 24 years old | Mumbai +449 more,"Job Security, Skill Development / Learning, Salary & Benefits",--
+61,Bajaj Finance,4.1,NBFC | 10k-50k Employees | 37 years old | Pune +770 more,"Salary & Benefits, Skill Development / Learning, Job Security",--
+62,Jana Small Finance Bank,3.9,Banking | 10k-50k Employees | Public | 18 years old | Bangalore/Bengaluru +349 more,--,--
+63,Lupin,4.1,Pharma | 1k-5k Employees | Public | 56 years old | Mumbai +165 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+64,Indian Army,4.7,Defence & Aerospace | 1 Lakh+ Employees | Public | 129 years old | New Delhi +325 more,"Job Security, Company Culture, Work Satisfaction",--
+65,HCL Group,3.7,IT Services & Consulting | 1 Lakh+ Employees | 48 years old | Chennai +74 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+66,L&T Infotech,3.8,IT Services & Consulting | 10k-50k Employees | Public | 28 years old | Mumbai +84 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+67,Quess,4.0,BPO | 1k-5k Employees | Public | 17 years old | Bangalore +520 more,Work Life Balance,Promotions / Appraisal
+68,Tata Steel,4.2,Iron & Steel | 1 Lakh+ Employees | Public | 117 years old | Mumbai +168 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+69,Wells Fargo,4.1,Financial Services | 10k-50k Employees | Public | 172 years old | San Francisco +20 more,"Job Security, Work Life Balance, Company Culture",--
+70,Zydus Lifesciences,4.1,Pharma | 10k-50k Employees | Public | 72 years old | Ahmedabad +149 more,"Job Security, Skill Development / Learning, Salary & Benefits",--
+71,Amazon Development Centre India,4.2,Internet | 10k-50k Employees | Hyderabad / Secunderabad +79 more,"Company Culture, Salary & Benefits, Work Life Balance",--
+72,Delhivery,4.0,Logistics | 10k-50k Employees | Fortune India 500 | 13 years old | Delhi +623 more,Skill Development / Learning,Promotions / Appraisal
+73,L&T Construction,4.1,Engineering & Construction | 5k-10k Employees | Public | 80 years old | Chennai +359 more,"Job Security, Skill Development / Learning, Salary & Benefits",--
+74,JPMorgan Chase & Co.,4.1,Financial Services | 50k-1 Lakh Employees | Public | 56 years old | New York +31 more,"Job Security, Company Culture, Skill Development / Learning",--
+75,Sun Pharmaceutical Industries,4.2,Pharma | 10k-50k Employees | Public | 41 years old | Mumbai +207 more,"Job Security, Salary & Benefits, Skill Development / Learning",--
+76,Hindustan Unilever,4.3,FMCG | 10k-50k Employees | Public | 152 years old | London +423 more,"Skill Development / Learning, Job Security, Company Culture",--
+77,FIS,3.9,FinTech | 10k-50k Employees | 56 years old | Jacksonville +45 more,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+78,ITC,4.0,FMCG | 10k-50k Employees | Public | 49 years old | Kolkata +295 more,"Job Security, Skill Development / Learning",Promotions / Appraisal
+79,Udaan,4.0,1k-5k Employees | Indian Unicorn | 8 years old | Bangalore +337 more,"Salary & Benefits, Skill Development / Learning","Job Security, Promotions / Appraisal"
+80,Hexaware Technologies,3.7,IT Services & Consulting | 10k-50k Employees | Fortune India 500 | 34 years old | Mumbai +46 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+81,IIFL Finance,4.0,NBFC | 10k-50k Employees | Public | 29 years old | Mumbai +660 more,Salary & Benefits,--
+82,JSW Steel,4.0,Iron & Steel | 10k-50k Employees | Public | 42 years old | Mumbai +142 more,"Job Security, Skill Development / Learning",Promotions / Appraisal
+83,Ujjivan Small Finance Bank,4.1,Banking | 10k-50k Employees | Public | 7 years old | Bangalore/Bengaluru +438 more,"Company Culture, Job Security, Work Life Balance",--
+84,Muthoot Finance,3.6,NBFC | 10k-50k Employees | Public | 85 years old | Kochi/Cochin +635 more,--,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+85,Max Life Insurance,4.2,Insurance | 10k-50k Employees | 24 years old | Gurgaon/Gurugram +393 more,"Skill Development / Learning, Company Culture, Job Security",--
+86,Aurobindo Pharma,4.0,Pharma | 10k-50k Employees | Public | 38 years old | Hyderabad/Secunderabad +92 more,"Job Security, Salary & Benefits",--
+87,KPMG India,3.6,Management Consulting | 10k-50k Employees | 37 years old | Bangalore / Bengaluru +76 more,Job Security,"Work Life Balance, Work Satisfaction, Promotions / Appraisal"
+88,Tata Projects,4.3,Engineering & Construction | 5k-10k Employees | Public | 45 years old | Mumbai +236 more,"Job Security, Company Culture, Skill Development / Learning",--
+89,Shapoorji Pallonji Group,4.2,Engineering & Construction | 5k-10k Employees | Conglomerate | 159 years old | Mumbai +164 more,"Job Security, Skill Development / Learning, Company Culture",--
+90,Oracle,3.8,Software Product | 50k-1 Lakh Employees | Public | 47 years old | Austin +47 more,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+91,Home Credit Finance,4.1,Financial Services | 10k-50k Employees | 12 years old | Gurugram +114 more,"Company Culture, Skill Development / Learning, Work Life Balance",--
+92,eClerx,3.5,IT Services & Consulting | 10k-50k Employees | Public | 24 years old | Mumbai +17 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+93,Apollo Hospitals,4.1,Healthcare | 10k-50k Employees | Public | 41 years old | Chennai +186 more,"Job Security, Skill Development / Learning, Company Culture",--
+94,Ashok Leyland,4.1,Automobile | 5k-10k Employees | Public | 76 years old | Chennai +211 more,"Skill Development / Learning, Work Satisfaction, Company Culture",--
+95,Siemens,4.2,Industrial Automation | 5k-10k Employees | Public | 177 years old | Munich +127 more,"Job Security, Company Culture, Work Life Balance",--
+96,Omega Healthcare,3.8,Healthcare | 10k-50k Employees | 21 years old | Florida +45 more,--,"Promotions / Appraisal, Salary & Benefits"
+97,JLL,4.2,Real Estate | 10k-50k Employees | Forbes Global 2000 | 27 years old | Mumbai +70 more,"Skill Development / Learning, Job Security, Company Culture",--
+98,Megha Engineering & Infrastructures,4.1,Engineering & Construction | 5k-10k Employees | Conglomerate | 35 years old | Hyderabad/Secunderabad +294 more,"Job Security, Skill Development / Learning",Promotions / Appraisal
+99,Vivo,4.1,Consumer Electronics & Appliances | 5k-10k Employees | Conglomerate | 15 years old | Gurgaon/Gurugram +375 more,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal
+100,First Source,3.8,BPO | 10k-50k Employees | Public | 23 years old | Mumbai +55 more,--,"Promotions / Appraisal, Salary & Benefits"
+101,JustDial,3.6,Internet | 10k-50k Employees | Public | 28 years old | Mumbai +179 more,--,"Promotions / Appraisal, Work Satisfaction, Job Security"
+102,Bajaj Allianz Life Insurance,4.1,Insurance | 10k-50k Employees | 23 years old | Pune +500 more,"Salary & Benefits, Work Life Balance, Job Security",--
+103,OPPO,4.0,Consumer Electronics & Appliances | 10k-50k Employees | Public | 20 years old | Dongguan +363 more,Skill Development / Learning,Promotions / Appraisal
+104,Hero MotoCorp,4.2,Automobile | 5k-10k Employees | Public | 40 years old | Gurgaon/Gurugram +316 more,"Work Life Balance, Company Culture, Job Security",--
+105,Mahindra Finance,4.3,NBFC | 10k-50k Employees | Public | 33 years old | Mumbai +633 more,"Job Security, Company Culture, Work Life Balance",--
+106,Standard Chartered,3.9,Banking | 10k-50k Employees | Fortune India 500 | 171 years old | London +58 more,Job Security,Promotions / Appraisal
+107,DMart,4.0,Retail | 10k-50k Employees | Fortune India 500 | 24 years old | Mumbai +211 more,"Job Security, Company Culture",Promotions / Appraisal
+108,Cyient,3.8,IT Services & Consulting | 10k-50k Employees | Public | 33 years old | Hyderabad/Secunderabad +35 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+109,Coforge,3.5,IT Services & Consulting | 10k-50k Employees | Public | 20 years old | Noida +86 more,--,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+110,BigBasket,4.0,Internet | 10k-50k Employees | Indian Unicorn | 13 years old | Bangalore +114 more,"Job Security, Skill Development / Learning",Promotions / Appraisal
+111,ICICI Lombard General Insurance Company,3.8,Insurance | 10k-50k Employees | Public | 23 years old | Mumbai +261 more,Job Security,Promotions / Appraisal
+112,Indiamart Intermesh,3.6,Internet | 5k-10k Employees | 28 years old | Noida +140 more,--,"Promotions / Appraisal, Work Satisfaction, Work Life Balance"
+113,CGI Group,4.1,IT Services & Consulting | 10k-50k Employees | Forbes Global 2000 | 48 years old | Montreal +28 more,"Job Security, Work Life Balance, Company Culture",--
+114,Virtusa Consulting Services,3.8,IT Services & Consulting | 10k-50k Employees | 28 years old | Southborough +37 more,--,Promotions / Appraisal
+115,Equitas Small Finance Bank,4.4,Banking | 10k-50k Employees | Fortune India 500 | 17 years old | Chennai +367 more,"Job Security, Company Culture, Work Life Balance",--
+116,TVS Motor,4.1,Automobile | 5k-10k Employees | Public | 45 years old | Chennai +276 more,"Skill Development / Learning, Salary & Benefits, Company Culture",--
+117,Manappuram Finance,4.0,NBFC | 10k-50k Employees | Public | 75 years old | Thrissur/Trichur +497 more,"Skill Development / Learning, Promotions / Appraisal",--
+118,GlobalLogic,3.7,IT Services & Consulting | 10k-50k Employees | 24 years old | San Jose +32 more,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+119,UST,3.9,IT Services & Consulting | 10k-50k Employees | 23 years old | Aliso Viejo +36 more,"Work Life Balance, Company Culture",Promotions / Appraisal
+120,Ekart Logistics,4.1,Logistics | 1k-5k Employees | 15 years old | San Francisco +570 more,"Skill Development / Learning, Salary & Benefits, Company Culture",Promotions / Appraisal
+121,SBI Cards & Payment Services,3.8,Financial Services | 1k-5k Employees | 26 years old | Gurgaon/Gurugram +340 more,--,"Promotions / Appraisal, Work Satisfaction, Company Culture"
+122,Hewlett Packard Enterprise,4.3,IT Services & Consulting | 10k-50k Employees | Forbes Global 2000 | 9 years old | Houston +90 more,"Company Culture, Work Life Balance, Job Security",--
+123,Atos Syntel,3.6,IT Services & Consulting | 5k-10k Employees | 44 years old | Troy +23 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+124,Bosch Global Software Technologies,4.1,IT Services & Consulting | 10k-50k Employees | 27 years old | Gerlingen +30 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+125,IQVIA,4.1,Clinical Research | 10k-50k Employees | Forbes Global 2000 | 42 years old | Durham +42 more,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+126,Nagarro,4.1,IT Services & Consulting | 10k-50k Employees | 28 years old | Munich +39 more,"Company Culture, Work Life Balance, Salary & Benefits",--
+127,Cholamandalam Investment & Finance,4.1,NBFC | 10k-50k Employees | Fortune India 500 | 46 years old | Chennai +633 more,"Salary & Benefits, Job Security, Skill Development / Learning",--
+128,Bosch,4.3,Auto Components | 5k-10k Employees | Public | 138 years old | Gerlingen +100 more,"Company Culture, Work Life Balance, Skill Development / Learning",--
+129,SMFG India Credit,4.1,NBFC | 10k-50k Employees | 17 years old | Mumbai +483 more,"Salary & Benefits, Job Security, Skill Development / Learning",--
+130,Reliance Communications,4.0,Telecom | 201-500 Employees | Public | 22 years old | Navi Mumbai +424 more,Skill Development / Learning,Promotions / Appraisal
+131,BNY Mellon,4.1,Investment Banking / Venture Capital / Private Equity | 10k-50k Employees | Forbes Global 2000 | 20 years old | New York City +16 more,"Company Culture, Work Life Balance, Salary & Benefits",--
+132,Schneider Electric,4.2,Industrial Automation | 10k-50k Employees | Forbes Global 2000 | 25 years old | Paris +116 more,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal
+133,L&T Technology Services,3.4,IT Services & Consulting | 10k-50k Employees | Public | 12 years old | Vadodara/Baroda +48 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+134,Hyundai Motor,4.4,Automobile | 10k-50k Employees | Fortune India 500 | 57 years old | Seoul +264 more,"Job Security, Salary & Benefits, Skill Development / Learning",--
+135,Amdocs,4.0,Software Product | 10k-50k Employees | Forbes Global 2000 | 42 years old | Chesterfield +15 more,"Company Culture, Job Security, Salary & Benefits",--
+136,Oyo Rooms,3.4,Hospitality | 1k-5k Employees | Indian Unicorn | 11 years old | Gurgaon +117 more,--,"Job Security, Promotions / Appraisal, Work Satisfaction"
+137,CBRE,4.3,Real Estate | 10k-50k Employees | Forbes Global 2000 | 118 years old | Los Angeles +75 more,"Skill Development / Learning, Job Security, Company Culture",--
+138,State Bank of India,3.8,Banking | 1 Lakh+ Employees | Fortune India 500 | 218 years old | Mumbai +484 more,Job Security,"Work Life Balance, Company Culture, Work Satisfaction"
+139,JBM Group,4.0,Auto Components | 1k-5k Employees | Public | 41 years old | Gurgaon/Gurugram +87 more,"Job Security, Skill Development / Learning",--
+140,Swiggy,3.9,Internet | 5k-10k Employees | Indian Unicorn | 10 years old | Kochi +182 more,--,"Job Security, Promotions / Appraisal"
+141,BT Group,4.1,Telecom | 10k-50k Employees | Forbes Global 2000 | 178 years old | Gurgaon / Gurugram +18 more,"Job Security, Work Life Balance, Company Culture",--
+142,Ecom Express,4.1,Logistics | 10k-50k Employees | 12 years old | Kochi +625 more,"Skill Development / Learning, Work Life Balance, Company Culture",--
+143,SBI Life Insurance Company,3.9,Insurance | 10k-50k Employees | 23 years old | Kochi +523 more,Job Security,Promotions / Appraisal
+144,Optum,4.0,Healthcare | 10k-50k Employees | 47 years old | Hyderabad / Secunderabad +28 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+145,Dell,4.2,Consumer Electronics & Appliances | 10k-50k Employees | Forbes Global 2000 | 40 years old | Kochi +101 more,"Company Culture, Work Life Balance, Skill Development / Learning",--
+146,Nagarjuna Construction Company,4.2,Engineering & Construction | 5k-10k Employees | Public | 26 years old | Kochi +225 more,"Job Security, Company Culture, Skill Development / Learning",--
+147,Bajaj Auto,3.9,Automobile | 5k-10k Employees | Public | 79 years old | Kochi +252 more,--,Promotions / Appraisal
+148,KEC International,4.1,Engineering & Construction | 5k-10k Employees | Public | 79 years old | Kochi +267 more,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+149,Future Group,4.3,Retail | 10k-50k Employees | Conglomerate | 11 years old | Kochi +202 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+150,Piramal Capital Housing Finance,4.2,NBFC | 1k-5k Employees | 4 years old | Kochi +329 more,"Company Culture, Skill Development / Learning, Work Life Balance",--
+151,Aditya Birla Fashion and Retail,4.2,Fashion & Textile | 10k-50k Employees | Fortune India 500 | 9 years old | Kochi +227 more,"Job Security, Skill Development / Learning, Company Culture",--
+152,Muthoot Fincorp,4.1,NBFC | 10k-50k Employees | Conglomerate | 137 years old | Kochi +538 more,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+153,Royal Enfield,4.3,Automobile | 5k-10k Employees | 123 years old | Kochi +304 more,"Skill Development / Learning, Company Culture, Work Satisfaction",--
+154,L&T Finance,4.0,NBFC | 10k-50k Employees | Public | 30 years old | Kochi +476 more,"Salary & Benefits, Skill Development / Learning",--
+155,Viatris,4.3,Pharma | 10k-50k Employees | Forbes Global 2000 | 4 years old | Hyderabad / Secunderabad +70 more,"Salary & Benefits, Job Security, Work Life Balance",--
+156,Tata Communications,4.2,Telecom | 5k-10k Employees | Public | 38 years old | Kochi +90 more,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal
+157,Samvardhana Motherson Group,3.8,Auto Components | 1k-5k Employees | Public | 38 years old | Noida +79 more,Job Security,--
+158,LG Electronics,4.1,Consumer Electronics & Appliances | 1k-5k Employees | Public | 66 years old | Kochi +248 more,"Job Security, Skill Development / Learning, Salary & Benefits",--
+159,Intas Pharmaceuticals,4.2,Pharma | 10k-50k Employees | Fortune India 500 | 24 years old | Kochi +114 more,"Job Security, Work Life Balance, Salary & Benefits",--
+160,John Deere,4.3,Industrial Machinery | 5k-10k Employees | Fortune India 500 | 23 years old | Moline +121 more,"Company Culture, Skill Development / Learning, Work Life Balance",--
+161,Varun Beverages,4.1,Beverage | 5k-10k Employees | Public | 29 years old | Gurgaon/Gurugram +281 more,"Job Security, Salary & Benefits",Promotions / Appraisal
+162,Kogta Financial India Limited,4.8,NBFC | 1k-5k Employees | Public | 28 years old | Jaipur +206 more,"Company Culture, Work Life Balance, Work Satisfaction",--
+163,Persistent Systems,3.8,IT Services & Consulting | 10k-50k Employees | Public | 34 years old | Pune +33 more,Company Culture,Promotions / Appraisal
+164,Godrej & Boyce Manufacturing,3.9,Engineering & Construction | 10k-50k Employees | Fortune India 500 | 127 years old | Mumbai +130 more,Job Security,Promotions / Appraisal
+165,Randstad,3.9,Recruitment | 5k-10k Employees | Conglomerate | 32 years old | Chennai +260 more,--,"Promotions / Appraisal, Job Security"
+166,Thermax Limited,4.2,Industrial Machinery | 1k-5k Employees | Public | 58 years old | Pune +179 more,"Job Security, Company Culture, Skill Development / Learning",--
+167,Hetero Drugs,3.9,Pharma | 1k-5k Employees | 31 years old | Hyderabad/Secunderabad +45 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+168,Macleods Pharmaceuticals,3.8,Pharma | 10k-50k Employees | Public | 38 years old | Mumbai +98 more,Job Security,Promotions / Appraisal
+169,Havells,4.1,Electrical Equipment | 5k-10k Employees | Public | 41 years old | Noida +180 more,"Work Life Balance, Salary & Benefits, Company Culture",--
+170,Deutsche Bank,4.1,Banking | 10k-50k Employees | Fortune India 500 | 154 years old | Frankfurt +38 more,"Job Security, Work Life Balance, Company Culture",--
+171,CARS24,3.7,Internet | 5k-10k Employees | Indian Unicorn | 9 years old | Gurgaon +150 more,--,"Job Security, Promotions / Appraisal, Work Satisfaction"
+172,Team Lease,4.0,Recruitment | 1k-5k Employees | Public | 8 years old | Bangalore/Bengaluru +303 more,--,Promotions / Appraisal
+173,Subros,4.0,Auto Components | 1k-5k Employees | Public | 39 years old | Noida +57 more,"Job Security, Skill Development / Learning, Company Culture","Salary & Benefits, Promotions / Appraisal"
+174,Sodexo,4.1,Facility Management Services | 10k-50k Employees | Forbes Global 2000 | 16 years old | Issy les Moulineaux +131 more,"Company Culture, Skill Development / Learning, Work Life Balance",--
+175,Abbott,4.1,Pharma | 10k-50k Employees | Public | 33 years old | Illinois City +171 more,"Company Culture, Salary & Benefits, Work Life Balance",Promotions / Appraisal
+176,VE Commercial Vehicles,4.0,Automobile | 1k-5k Employees | 16 years old | Gurgaon/Gurugram +127 more,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+177,Whitehat jr,3.5,EdTech | 5k-10k Employees | Startup | 6 years old | Mumbai +50 more,--,"Job Security, Promotions / Appraisal, Work Life Balance"
+178,Indian Oil Corporation,4.5,Oil & Gas | 10k-50k Employees | Fortune India 500 | 65 years old | Delhi/NCR +251 more,"Company Culture, Work Life Balance, Skill Development / Learning",--
+179,Ford Motor,4.5,Automobile | 5k-10k Employees | Public | 121 years old | Dearborn +112 more,"Company Culture, Work Life Balance, Salary & Benefits",--
+180,Tata Capital,4.2,NBFC | 5k-10k Employees | Fortune India 500 | 17 years old | Mumbai +229 more,"Job Security, Company Culture, Skill Development / Learning",--
+181,Automatic Data Processing (ADP),4.1,Software Product | 1k-5k Employees | Forbes Global 2000 | 75 years old | New Jersey +25 more,"Job Security, Company Culture, Work Life Balance",--
+182,Bharat Electronics,4.2,Electronics Manufacturing | 5k-10k Employees | Fortune India 500 | 70 years old | Bangalore/Bengaluru +51 more,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal
+183,Cummins,4.4,Industrial Machinery | 1k-5k Employees | Fortune India 500 | 62 years old | Columbus +83 more,"Company Culture, Work Life Balance, Skill Development / Learning",--
+184,Access Healthcare,4.0,IT Services & Consulting | 5k-10k Employees | 13 years old | Dallas +30 more,"Job Security, Company Culture",--
+185,American Express,4.3,Financial Services | 10k-50k Employees | Forbes Global 2000 | 174 years old | New York City +44 more,"Company Culture, Work Life Balance, Job Security",--
+186,Alembic Pharmaceuticals,4.1,Pharma | 10k-50k Employees | Public | 117 years old | Vadodara/Baroda +150 more,"Salary & Benefits, Work Life Balance",--
+187,R1 RCM,4.0,Healthcare | 5k-10k Employees | 17 years old | Murray +32 more,"Job Security, Company Culture, Work Life Balance",--
+188,Pidilite Industries,4.4,Chemicals | 5k-10k Employees | Public | 65 years old | Mumbai +236 more,"Job Security, Company Culture, Work Life Balance",--
+189,ITC Infotech,3.7,IT Services & Consulting | 10k-50k Employees | 24 years old | Bangalore/Bengaluru +52 more,--,"Promotions / Appraisal, Salary & Benefits"
+190,UnitedHealth,4.1,Healthcare | 10k-50k Employees | Forbes Global 2000 | 47 years old | Minnetonka +16 more,"Job Security, Work Life Balance, Company Culture",--
+191,Hindalco Industries,4.3,Metals & Mining | 10k-50k Employees | Public | 66 years old | Mumbai +86 more,"Job Security, Skill Development / Learning, Company Culture",--
+192,Tata AIA Life Insurance,4.1,Insurance | 10k-50k Employees | 23 years old | Mumbai +324 more,"Job Security, Salary & Benefits, Skill Development / Learning",--
+193,Alkem Laboratories,4.0,Pharma | 10k-50k Employees | Public | 51 years old | Mumbai +161 more,--,--
+194,Publicis Sapient,3.6,IT Services & Consulting | 10k-50k Employees | 34 years old | New York +26 more,--,"Promotions / Appraisal, Job Security, Work Satisfaction"
+195,Atos,3.8,IT Services & Consulting | 10k-50k Employees | Forbes Global 2000 | 27 years old | Vilnius +41 more,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits"
+196,Aakash Educational Services,3.6,EdTech | 5k-10k Employees | 36 years old | New Delhi +203 more,--,"Work Life Balance, Promotions / Appraisal, Work Satisfaction"
+197,DCB Bank,3.9,Banking | 5k-10k Employees | Fortune India 500 | 94 years old | Mumbai +304 more,"Job Security, Work Life Balance, Company Culture",--
+198,Utkarsh Small Finance Bank,3.9,Banking | 10k-50k Employees | Public | 15 years old | Varanasi +296 more,Job Security,--
+199,Indian Air Force,4.7,Defence & Aerospace | 1 Lakh+ Employees | 92 years old | New Delhi +111 more,"Job Security, Skill Development / Learning, Salary & Benefits",--
+200,Hindustan Coca Cola Beverages,4.3,Beverage | 5k-10k Employees | 27 years old | Bangalore +218 more,"Skill Development / Learning, Job Security, Salary & Benefits",--
+201,Vishal Mega Mart,3.8,Retail | 10k-50k Employees | 16 years old | Gurgaon/Gurugram +318 more,Salary & Benefits,"Company Culture, Work Satisfaction, Job Security"
+202,Glenmark Pharmaceuticals,4.0,Pharma | 10k-50k Employees | Public | 47 years old | Mumbai +140 more,"Job Security, Skill Development / Learning, Salary & Benefits",--
+203,Barclays,4.0,Banking | 10k-50k Employees | Forbes Global 2000 | 334 years old | London +31 more,"Job Security, Company Culture, Salary & Benefits",--
+204,Berger Paints,3.8,Chemicals | 1k-5k Employees | Public | 101 years old | Kolkata +247 more,Job Security,"Promotions / Appraisal, Work Life Balance, Work Satisfaction"
+205,Marpu Foundation,4.9,Non-Profit | 51-200 Employees | 8 years old | Hyderabad/Secunderabad +54 more,"Company Culture, Skill Development / Learning, Work Life Balance",--
+206,Ipca Laboratories,4.0,Pharma | 10k-50k Employees | Public | 75 years old | Mumbai +125 more,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+207,Maersk,4.3,Logistics | 10k-50k Employees | 120 years old | Copenhagen +35 more,"Company Culture, Work Life Balance, Job Security",--
+208,Jindal Steel and Power,4.0,Iron & Steel | 5k-10k Employees | Fortune India 500 | 45 years old | Delhi/NCR +117 more,"Skill Development / Learning, Job Security",Promotions / Appraisal
+209,Bank of America,4.4,Banking | 10k-50k Employees | Fortune India 500 | 26 years old | Charlotte +30 more,"Job Security, Work Life Balance, Company Culture",--
+210,DTDC Express,3.8,Logistics | 1k-5k Employees | 34 years old | Bangalore/Bengaluru +228 more,--,"Promotions / Appraisal, Salary & Benefits"
+211,ABB Group,4.1,Industrial Automation | 1k-5k Employees | Public | 36 years old | Zurich +96 more,"Job Security, Company Culture, Work Life Balance",--
+212,Aarti Industries,4.2,Agro Chemicals | 5k-10k Employees | Public | 49 years old | Mumbai +43 more,"Job Security, Work Life Balance, Skill Development / Learning",--
+213,24/7 Customer,3.6,BPO | 5k-10k Employees | 24 years old | San Jose +25 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+214,Wipro Infotech,4.0,IT Services & Consulting | 1 Lakh+ Employees (Global) | MNC | 79 years old | Bangalore +117 more,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+215,Honda Motorcycle & Scooter,4.2,Automobile | 10k-50k Employees | 25 years old | Gurgaon/Gurugram +213 more,"Job Security, Company Culture, Work Life Balance",--
+216,HDFC Ergo General Insurance,4.1,Insurance | 10k-50k Employees | Public | 22 years old | Mumbai +232 more,"Job Security, Company Culture, Work Life Balance",--
+217,Johnson Controls,3.7,Industrial Automation | 5k-10k Employees | Public | 139 years old | Cork +48 more,--,Promotions / Appraisal
+218,Carelon Global Solutions,4.0,IT Services & Consulting | 10k-50k Employees | Hyderabad / Secunderabad +12 more,"Job Security, Salary & Benefits, Company Culture",--
+219,NatWest Group,4.1,Banking | 10k-50k Employees | Forbes Global 2000 | Gurgaon / Gurugram +22 more,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+220,CMS IT Services,3.1,IT Services & Consulting | 5k-10k Employees | Startup | 10 years old | Bangalore +137 more,--,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+221,PolicyBazaar,3.5,Internet | 10k-50k Employees | Public | 16 years old | Gurgaon +87 more,--,"Work Life Balance, Promotions / Appraisal, Company Culture"
+222,Cogent E Services,3.4,BPO | 10k-50k Employees | Conglomerate | 20 years old | Noida +36 more,--,"Salary & Benefits, Promotions / Appraisal, Work Satisfaction"
+223,RBL Bank,3.8,Banking | 10k-50k Employees | Public | 81 years old | Mumbai +224 more,--,Promotions / Appraisal
+224,Reliance Nippon Life Insurance,3.9,Insurance | 10k-50k Employees | 24 years old | Mumbai +431 more,--,--
+225,MRF Tyres,3.8,Auto Components | 10k-50k Employees | Public | 78 years old | Chennai +163 more,Job Security,"Company Culture, Work Satisfaction, Work Life Balance"
+226,Paras Hospital,4.6,Healthcare | 1k-5k Employees | 18 years old | Gurgaon/Gurugram +47 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+227,PNB MetLife,3.5,Insurance | 5k-10k Employees | Conglomerate | 23 years old | Mumbai +324 more,--,"Job Security, Work Satisfaction, Promotions / Appraisal"
+228,Reliance Digital,4.3,Retail | 5k-10k Employees | 17 years old | Mumbai +308 more,"Job Security, Skill Development / Learning, Company Culture",--
+229,Wipro Consumer Care & Lighting,3.9,FMCG | 1k-5k Employees | 79 years old | Bangalore/Bengaluru +94 more,Job Security,Promotions / Appraisal
+230,Jubilant Foods Works,3.9,Hospitality | 10k-50k Employees | Public | 29 years old | Noida +197 more,"Skill Development / Learning, Salary & Benefits",--
+231,Escorts Kubota Limited,4.1,Automobile | 1k-5k Employees | Public | 64 years old | Faridabad +136 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+232,GeBBS Healthcare Solutions,3.7,BPO | 5k-10k Employees | 19 years old | Culver City +18 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+233,Ceat Tyres,4.1,Auto Components | 5k-10k Employees | Public | 66 years old | Mumbai +114 more,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal
+234,Kotak Mahindara Life Insurance,3.9,Insurance | 10k-50k Employees | Public | 23 years old | Mumbai +210 more,Job Security,--
+235,Dabur,3.9,FMCG | 5k-10k Employees | Public | 140 years old | Ghaziabad +250 more,--,Promotions / Appraisal
+236,Axis Direct,3.9,Financial Services | 1k-5k Employees | 13 years old | San Mateo +271 more,--,Promotions / Appraisal
+237,Conduent,3.6,BPO | 5k-10k Employees | 7 years old | Florham Park +21 more,--,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+238,JK Cement,4.2,Building Material | 1k-5k Employees | Public | 50 years old | Gurgaon/Gurugram +238 more,"Salary & Benefits, Company Culture, Job Security",--
+239,IndiGo,3.6,Aviation | 10k-50k Employees | Fortune India 500 | 19 years old | Gurgaon/Gurugram +89 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+240,Shoppers Stop,4.1,Retail | 5k-10k Employees | Public | 33 years old | Mumbai +64 more,"Job Security, Company Culture, Skill Development / Learning",--
+241,Synechron,3.8,IT Services & Consulting | 5k-10k Employees | 23 years old | New York +26 more,"Salary & Benefits, Skill Development / Learning, Company Culture",Job Security
+242,ACC,3.9,Building Material | 5k-10k Employees | Public | 88 years old | Mumbai +212 more,--,Promotions / Appraisal
+243,Birlasoft,3.8,IT Services & Consulting | 10k-50k Employees | Public | 29 years old | Pune +34 more,--,"Promotions / Appraisal, Salary & Benefits"
+244,HARMAN,3.8,Consumer Electronics & Appliances | 5k-10k Employees | Public | 15 years old | Stamford +28 more,Work Life Balance,Promotions / Appraisal
+245,Lenskart,3.3,Internet | 5k-10k Employees | Indian Unicorn | 14 years old | Faridabad +165 more,--,"Promotions / Appraisal, Work Life Balance, Work Satisfaction"
+246,ArcelorMittal Nippon Steel,4.1,Iron & Steel | 5k-10k Employees | Conglomerate | Surat +66 more,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal
+247,Indiabulls Home Loans,3.9,NBFC | 5k-10k Employees | Public | 19 years old | Gurgaon/Gurugram +190 more,--,Promotions / Appraisal
+248,GATI-KWE,4.0,Logistics | 1k-5k Employees | 12 years old | Hyderabad/Secunderabad +158 more,"Skill Development / Learning, Job Security",Promotions / Appraisal
+249,Reliance SMSL,4.0,BPO | 1k-5k Employees | Public | 17 years old | Mumbai +483 more,"Skill Development / Learning, Work Life Balance, Salary & Benefits",Promotions / Appraisal
+250,KPIT Technologies,3.6,Software Product | 5k-10k Employees | Public | 34 years old | Pune +32 more,--,"Promotions / Appraisal, Job Security, Work Satisfaction"
+251,PepsiCo,4.2,Food Processing | 1 Lakh+ Employees | Public | 59 years old | Harrison +228 more,"Job Security, Company Culture, Skill Development / Learning",--
+252,UPL,4.2,Agro Chemicals | 5k-10k Employees | Public | 55 years old | Mumbai +159 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+253,S&P Global,4.2,Analytics & KPO | 10k-50k Employees | Public | 107 years old | New York City +24 more,"Company Culture, Work Life Balance, Job Security",--
+254,Torrent Pharmaceuticals,3.9,Pharma | 10k-50k Employees | Public | 53 years old | Ahmedabad +100 more,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits"
+255,Dilip Buildcon,4.0,Engineering & Construction | 10k-50k Employees | Public | 37 years old | Bhopal +184 more,"Skill Development / Learning, Work Satisfaction",--
+256,RSPL Group,4.2,FMCG | 10k-50k Employees | 37 years old | Mumbai +202 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+257,Square Yards,3.9,Internet | 1k-5k Employees | 11 years old | Gurgaon +41 more,"Promotions / Appraisal, Skill Development / Learning, Salary & Benefits",--
+258,Titan Company,4.4,Retail | 5k-10k Employees | Public | 40 years old | Bangalore +142 more,"Company Culture, Job Security, Skill Development / Learning",--
+259,Tech Mahindra Business Services,3.5,BPO | 5k-10k Employees | Public | 21 years old | Mumbai +46 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+260,TVS Credit,4.5,NBFC | 10k-50k Employees | Public | 16 years old | Chennai +305 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+261,Wipro Enterprises Ltd,3.9,IT Services & Consulting | 501-1k Employees | 79 years old | Bangalore +96 more,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal
+262,Tata AIG,4.2,Insurance | 5k-10k Employees | 24 years old | Mumbai +222 more,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal
+263,Bajaj Electricals,4.1,Consumer Electronics & Appliances | 1k-5k Employees | Public | 86 years old | Mumbai +194 more,"Salary & Benefits, Company Culture, Work Life Balance",--
+264,EY Global Delivery Services ( EY GDS),3.7,Accounting & Auditing | 50k-1 Lakh Employees | 22 years old | Bangalore/Bengaluru +38 more,"Job Security, Skill Development / Learning","Promotions / Appraisal, Work Satisfaction, Work Life Balance"
+265,IDFC FIRST Bharat,4.6,NBFC | 10k-50k Employees | 8 years old | Tiruchirappalli +302 more,"Salary & Benefits, Job Security, Company Culture",--
+266,Statestreet HCL Services,3.3,BPO | 5k-10k Employees | 12 years old | New Delhi +16 more,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+267,Alstom Transportation,3.9,Engineering & Construction | 5k-10k Employees | Forbes Global 2000 | 96 years old | Saint-Ouen +66 more,Job Security,Promotions / Appraisal
+268,Aditya Birla Sun Life Insurance,4.2,Insurance | 10k-50k Employees | 24 years old | Mumbai +371 more,"Job Security, Company Culture, Work Life Balance",--
+269,IGT Solutions,3.4,BPO | 5k-10k Employees | 26 years old | Gurgaon/Gurugram +29 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+270,Afcons Infrastructure,4.4,Engineering & Construction | 5k-10k Employees | 65 years old | Mumbai +98 more,"Job Security, Skill Development / Learning, Company Culture",--
+271,Apollo Tyres,4.1,Auto Components | 5k-10k Employees | Public | 52 years old | Gurgaon/Gurugram +149 more,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal
+272,Simplex Infrastructures,3.3,Engineering & Construction | 1k-5k Employees | Public | 100 years old | Kolkata +132 more,--,"Salary & Benefits, Promotions / Appraisal, Company Culture"
+273,Mankind Pharma,4.1,Pharma | 10k-50k Employees | Fortune India 500 | 29 years old | New Delhi +191 more,"Salary & Benefits, Skill Development / Learning, Work Life Balance",--
+274,Domino's Pizza,4.0,Hospitality | 1k-5k Employees | Public | 64 years old | Ypsilanti +215 more,"Skill Development / Learning, Salary & Benefits",--
+275,Suzlon Group,4.2,Power | 5k-10k Employees | Public | 29 years old | Pune +107 more,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+276,Zensar Technologies,3.8,IT Services & Consulting | 5k-10k Employees | Public | 23 years old | Pune +22 more,Work Life Balance,Promotions / Appraisal
+277,Flex,4.2,Electronics Manufacturing | 5k-10k Employees | Forbes Global 2000 | 55 years old | San Jose +39 more,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+278,Capita,3.8,IT Services & Consulting | 5k-10k Employees | 19 years old | Indore +24 more,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+279,State Street Corporation,3.8,Financial Services | 10k-50k Employees | Forbes Global 2000 | 232 years old | Boston +19 more,Job Security,Promotions / Appraisal
+280,KocharTech,4.1,IT Services & Consulting | 1k-5k Employees | 29 years old | Gurgaon/Gurugram +24 more,"Skill Development / Learning, Company Culture, Work Satisfaction",--
+281,Huawei Technologies,4.0,Telecom | 51-200 Employees | 22 years old | Gurgaon/Gurugram +99 more,"Salary & Benefits, Skill Development / Learning",Job Security
+282,Max Healthcare,4.2,Healthcare | 1k-5k Employees | Fortune India 500 | 23 years old | Delhi/NCR +56 more,"Skill Development / Learning, Job Security, Company Culture",--
+283,McDonald's,4.2,Hospitality | 1k-5k Employees | Forbes Global 2000 | 69 years old | Chicago +134 more,"Skill Development / Learning, Company Culture, Job Security",--
+284,Bajaj Allianz General Insurance,4.0,Insurance | 5k-10k Employees | Pune +212 more,"Skill Development / Learning, Company Culture, Job Security",--
+285,Tata Technologies,3.8,Engineering & Construction | 5k-10k Employees | Conglomerate | 35 years old | Singapore +41 more,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+286,I Process Services,3.9,Recruitment | 1k-5k Employees | 19 years old | Mumbai +296 more,--,"Promotions / Appraisal, Salary & Benefits"
+287,Taj Hotels Resorts and Palaces,4.2,Hospitality | 10k-50k Employees | 121 years old | Mumbai +93 more,"Job Security, Company Culture, Skill Development / Learning",--
+288,Croma,4.1,Retail | 5k-10k Employees | 18 years old | Mumbai +139 more,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+289,ElasticRun,3.4,Logistics | 1k-5k Employees | Indian Unicorn | 8 years old | Pune +343 more,--,"Job Security, Promotions / Appraisal, Work Satisfaction"
+290,HDFC Sales,4.1,Financial Services | 10k-50k Employees | 20 years old | Mumbai +278 more,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal
+291,Grasim Industries,4.1,Building Material | 10k-50k Employees | Public | 77 years old | Nagda +102 more,"Job Security, Skill Development / Learning, Company Culture",--
+292,Landmark Group,4.1,Retail | 1k-5k Employees | Conglomerate | 51 years old | Dubai Marina +139 more,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+293,Nestle,4.2,Food Processing | 5k-10k Employees | Public | 65 years old | Vevey +229 more,"Job Security, Salary & Benefits, Skill Development / Learning",--
+294,UNO Minda,4.1,Auto Components | 201-500 Employees | Fortune India 500 | 66 years old | Gurgaon +84 more,"Job Security, Skill Development / Learning, Company Culture",--
+295,Walmart,4.0,Retail | 5k-10k Employees | Forbes Global 2000 | 15 years old | Bangalore/Bengaluru +78 more,"Job Security, Company Culture, Salary & Benefits",Promotions / Appraisal
+296,Lava International,4.1,Consumer Electronics & Appliances | 1k-5k Employees | Public | 15 years old | Noida +212 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+297,AGS Health,4.0,BPO | 10k-50k Employees | 13 years old | Washington DC +37 more,"Job Security, Company Culture, Skill Development / Learning",--
+298,Nokia,4.3,Telecom | 10k-50k Employees | Forbes Global 2000 | 159 years old | Espoo +150 more,"Company Culture, Work Life Balance, Job Security",--
+299,Patanjali Ayurved,4.1,FMCG | 1k-5k Employees | Fortune India 500 | 18 years old | Haridwar +258 more,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+300,Blue Dart Express,4.1,Logistics | 10k-50k Employees | Public | 41 years old | Mumbai +234 more,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+301,Tractors and Farm Equipment,4.1,Industrial Machinery | 10k-50k Employees | Public | 64 years old | Chennai +166 more,"Skill Development / Learning, Work Life Balance, Company Culture",Promotions / Appraisal
+302,Capgemini Engineering,3.6,10k-50k Employees | Gurgaon / Gurugram +21 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+303,G4S,4.1,Law Enforcement & Security | 1 Lakh+ Employees | 28 years old | Gurgaon/Gurugram +137 more,"Work Life Balance, Salary & Benefits",Promotions / Appraisal
+304,State Street Syntel,3.7,Financial Services | 501-1k Employees | 20 years old | Mumbai +21 more,"Job Security, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal, Work Satisfaction"
+305,Fortis Healthcare,4.1,Healthcare | 1k-5k Employees | Public | 28 years old | Gurgaon/Gurugram +59 more,"Skill Development / Learning, Job Security, Company Culture",--
+306,Societe Generale,3.9,Financial Services | 1k-5k Employees | 24 years old | Bangalore/Bengaluru +16 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+307,BlackBuck,3.9,Internet | 1k-5k Employees | Indian Unicorn | 9 years old | Bangalore +312 more,Salary & Benefits,"Job Security, Promotions / Appraisal"
+308,TVS Supply Chain Solutions,4.0,Logistics | 1k-5k Employees | 128 years old | Chennai +132 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+309,Fiserv,3.7,FinTech | 5k-10k Employees | Forbes Global 2000 | 40 years old | Brookfield +28 more,--,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+310,Britannia,4.1,FMCG | 1k-5k Employees | Public | 132 years old | Reading +232 more,"Job Security, Skill Development / Learning, Company Culture",--
+311,KFintech,3.7,FinTech | 5k-10k Employees | Startup | 7 years old | Hyderabad +102 more,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+312,Micro Labs,3.7,Pharma | 10k-50k Employees | 51 years old | Bangalore/Bengaluru +122 more,Job Security,"Salary & Benefits, Promotions / Appraisal, Company Culture"
+313,Voltas,4.1,Consumer Electronics & Appliances | 1k-5k Employees | Public | 70 years old | Mumbai +173 more,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal
+314,Sterlite Technologies,3.8,Hardware & Networking | 1k-5k Employees | Public | 36 years old | Pune +77 more,--,Promotions / Appraisal
+315,Shree Cement,4.0,Building Material | 5k-10k Employees | Public | 45 years old | Kolkata +198 more,Work Life Balance,Promotions / Appraisal
+316,Exide Industries,3.6,Auto Components | 5k-10k Employees | Public | 77 years old | Kolkata +186 more,--,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+317,Kyndryl,4.1,IT Services & Consulting | 10k-50k Employees | Public | 3 years old | New York +25 more,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal
+318,Ola Cabs,3.5,Internet | 1k-5k Employees | Indian Unicorn | 14 years old | Bangalore +95 more,--,"Job Security, Promotions / Appraisal, Company Culture"
+319,Yazaki,3.9,Auto Components | 10k-50k Employees | 83 years old | Tokyo +68 more,--,"Promotions / Appraisal, Salary & Benefits"
+320,Radisson Hotels,4.1,Hospitality | 5k-10k Employees | 115 years old | Minnetonka +103 more,"Skill Development / Learning, Work Life Balance, Company Culture",--
+321,Himalaya Wellness,4.2,Pharma | 5k-10k Employees | 94 years old | San Francisco +196 more,"Work Life Balance, Company Culture, Skill Development / Learning",--
+322,Quest Global,3.7,IT Services & Consulting | 10k-50k Employees | 27 years old | Singapore +33 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+323,Dalmia Bharat Cement,4.0,Building Material | 5k-10k Employees | Public | 89 years old | Delhi/NCR +207 more,"Job Security, Skill Development / Learning, Salary & Benefits",--
+324,Lifestyle,4.4,Retail | 10k-50k Employees | Fortune India 500 | 25 years old | Bangalore/Bengaluru +109 more,"Company Culture, Job Security, Skill Development / Learning",--
+325,IKS Health,3.6,Healthcare | 5k-10k Employees | 17 years old | Mumbai +16 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+326,Eureka Forbes,3.9,Consumer Electronics & Appliances | 1k-5k Employees | 42 years old | Mumbai +160 more,Skill Development / Learning,"Promotions / Appraisal, Job Security"
+327,ACT Fibernet,4.1,Telecom | 5k-10k Employees | 16 years old | Bengaluru/Bangalore +42 more,"Job Security, Company Culture, Salary & Benefits",--
+328,Ajanta Pharma,4.1,Pharma | 5k-10k Employees | Public | 51 years old | Mumbai +97 more,"Job Security, Company Culture, Work Life Balance",--
+329,Blue Star,4.1,Consumer Electronics & Appliances | 1k-5k Employees | Public | 81 years old | Mumbai +132 more,"Company Culture, Skill Development / Learning, Work Satisfaction",--
+330,Aditya Birla Group,4.1,Building Material | 1 Lakh+ Employees | Conglomerate | 167 years old | Mumbai +221 more,"Job Security, Skill Development / Learning, Company Culture",--
+331,XpressBees,3.8,Logistics | 5k-10k Employees | Indian Unicorn | 9 years old | Pune +234 more,--,Promotions / Appraisal
+332,Extramarks Education,3.5,EdTech | 1k-5k Employees | 17 years old | Noida +102 more,--,"Job Security, Promotions / Appraisal, Work Satisfaction"
+333,Nokia Networks,4.3,Hardware & Networking | 501-1k Employees | Chennai +84 more,"Company Culture, Work Life Balance, Work Satisfaction",--
+334,DS Group,4.1,FMCG | 1k-5k Employees | Conglomerate | 95 years old | Noida +200 more,"Work Life Balance, Job Security",Promotions / Appraisal
+335,Motilal Oswal Financial Services,3.8,Financial Services | 5k-10k Employees | Public | 37 years old | Mumbai +125 more,Skill Development / Learning,Promotions / Appraisal
+336,Sonalika Tractors,3.8,Automobile | 1k-5k Employees | 55 years old | Hoshiarpur +150 more,Job Security,"Promotions / Appraisal, Company Culture, Salary & Benefits"
+337,Mahindra Rural Housing Finance,4.1,NBFC | 10k-50k Employees | Public | 17 years old | Mumbai +410 more,"Company Culture, Work Life Balance, Job Security",--
+338,Life Insurance Corporation of India,4.4,Insurance | 1 Lakh+ Employees | Fortune India 500 | 68 years old | Mumbai +409 more,"Work Life Balance, Company Culture, Salary & Benefits",--
+339,Cholamandalam MS General Insurance,3.9,Insurance | 1k-5k Employees | 23 years old | Chennai +329 more,--,Promotions / Appraisal
+340,Zomato,3.7,Internet | 1k-5k Employees | Public | 16 years old | Gurgaon / Gurugram +170 more,--,"Promotions / Appraisal, Job Security"
+341,Delhi Public School,3.9,Education & Training | 1k-5k Employees | Public | 26 years old | New Delhi +233 more,Skill Development / Learning,--
+342,Future Retail,4.3,Retail | 10k-50k Employees | Public | 37 years old | Gurgaon / Gurugram +196 more,"Skill Development / Learning, Company Culture, Work Satisfaction",--
+343,Mahindra Logistics,4.1,Logistics | 1k-5k Employees | Public | 24 years old | Pune +121 more,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal
+344,PVR Cinemas,4.1,Media & Entertainment | 1k-5k Employees | Public | 27 years old | Gurgaon / Gurugram +104 more,"Skill Development / Learning, Job Security, Company Culture",--
+345,Indus Towers,4.0,Telecom | 1k-5k Employees | Fortune India 500 | 17 years old | Gurgaon / Gurugram +155 more,"Salary & Benefits, Skill Development / Learning",Promotions / Appraisal
+346,JMC Projects,4.2,Engineering & Construction | 1k-5k Employees | Public | 42 years old | Mumbai +118 more,"Job Security, Skill Development / Learning, Salary & Benefits",--
+347,Rivigo,3.9,Internet | 1k-5k Employees | Indian Unicorn | 10 years old | Gurgaon / Gurugram +151 more,Skill Development / Learning,"Promotions / Appraisal, Job Security, Salary & Benefits"
+348,SRF,4.3,Chemicals | 5k-10k Employees | Public | 54 years old | Gurgaon / Gurugram +45 more,"Job Security, Salary & Benefits, Skill Development / Learning",--
+349,Myntra,4.0,Internet | 1k-5k Employees | 17 years old | Bangalore / Bengaluru +97 more,"Company Culture, Skill Development / Learning, Work Life Balance",--
+350,V-Mart,4.3,Retail | 5k-10k Employees | Public | 22 years old | Gurgaon / Gurugram +241 more,"Skill Development / Learning, Job Security, Company Culture",--
+351,Ninjacart,4.1,Internet | 1k-5k Employees | Startup | 9 years old | Bangalore / Bengaluru +94 more,"Salary & Benefits, Skill Development / Learning, Company Culture",--
+352,Emcure Pharmaceuticals,3.8,Pharma | 5k-10k Employees | Fortune India 500 | 43 years old | Pune +97 more,--,"Job Security, Promotions / Appraisal"
+353,Parle Agro,4.2,Beverage | 5k-10k Employees | 40 years old | Mumbai +189 more,"Job Security, Work Life Balance, Skill Development / Learning",--
+354,Datamatics Global Services,3.6,IT Services & Consulting | 5k-10k Employees | Public | 49 years old | Mumbai +27 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+355,Kalpataru Power Transmission,4.2,Engineering & Construction | 1k-5k Employees | Public | 43 years old | Noida +211 more,"Job Security, Skill Development / Learning, Company Culture",--
+356,Movate,3.5,IT Services & Consulting | 1k-5k Employees | 28 years old | Chennai +29 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+357,Kansai Nerolac Paints,3.9,Chemicals | 1k-5k Employees | Public | 104 years old | Mumbai +179 more,Job Security,Promotions / Appraisal
+358,Renault-Nissan,4.1,Automobile | 10k-50k Employees | 17 years old | Chennai +79 more,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+359,Pfizer,4.1,Pharma | 1k-5k Employees | Public | 20 years old | Mumbai +111 more,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal
+360,Tata Teleservices,4.1,Telecom | 201-500 Employees | Public | 28 years old | Mumbai +147 more,"Work Life Balance, Company Culture, Skill Development / Learning",--
+361,Fujitsu,3.9,IT Services & Consulting | 5k-10k Employees | Forbes Global 2000 | 89 years old | Bangalore/Bengaluru +26 more,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+362,Mahindra Holidays & Resorts,3.6,Hospitality | 5k-10k Employees | 28 years old | Mumbai +95 more,--,"Promotions / Appraisal, Work Life Balance, Work Satisfaction"
+363,VVDN Technologies,3.7,IT Services & Consulting | 5k-10k Employees | 17 years old | Gurgaon +32 more,--,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+364,Indian Railways,4.1,Railways | 1 Lakh+ Employees | Central | 171 years old | Delhi/NCR +212 more,"Job Security, Skill Development / Learning, Work Satisfaction",--
+365,BHEL,4.1,Electrical Equipment | 10k-50k Employees | Fortune India 500 | 60 years old | Bangalore/Bengaluru +100 more,"Job Security, Work Life Balance, Company Culture",--
+366,KPMG Global Services,3.7,Bangalore / Bengaluru +31 more,Job Security,"Promotions / Appraisal, Work Satisfaction"
+367,Raymond,4.1,Fashion & Textile | 5k-10k Employees | Public | 99 years old | New York +128 more,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+368,MSN Laboratories,3.8,Pharma | 10k-50k Employees | 21 years old | Hyderabad/Secunderabad +69 more,Job Security,Company Culture
+369,Reliance Trends,4.3,Retail | 1 Lakh+ Employees | Conglomerate | 18 years old | Navi Mumbai +337 more,"Skill Development / Learning, Job Security, Company Culture",--
+370,3i Infotech,3.6,IT Services & Consulting | 1k-5k Employees | Public | 31 years old | Mumbai +109 more,--,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+371,ICICI Securities,3.8,Financial Services | 1k-5k Employees | Public | 29 years old | Mumbai +123 more,Job Security,"Promotions / Appraisal, Work Satisfaction"
+372,Blinkit,3.9,Internet | 1k-5k Employees | Indian Unicorn | 11 years old | Gurgaon +61 more,Skill Development / Learning,"Job Security, Promotions / Appraisal"
+373,Cybage,3.9,IT Services & Consulting | 5k-10k Employees | 29 years old | Pune +9 more,"Job Security, Company Culture, Work Life Balance",--
+374,JCB,4.0,Industrial Machinery | 1k-5k Employees | 79 years old | Rocester +90 more,"Work Life Balance, Company Culture",Promotions / Appraisal
+375,Ambuja Cements,3.9,Building Material | 5k-10k Employees | Public | 41 years old | Mumbai +195 more,--,Promotions / Appraisal
+376,Cadila Pharmaceuticals,3.5,Pharma | 5k-10k Employees | Public | 73 years old | Ahmedabad +114 more,--,"Job Security, Promotions / Appraisal, Work Satisfaction"
+377,Info Edge,4.1,Internet | 5k-10k Employees | Public | 29 years old | Noida +55 more,"Job Security, Company Culture, Work Life Balance",--
+378,Shell,4.3,Oil & Gas | 10k-50k Employees | Public | 117 years old | London +74 more,"Work Life Balance, Company Culture, Salary & Benefits",--
+379,suzuki motor gujarat,4.3,Fortune India 500 | Becharaji +86 more,"Job Security, Company Culture, Salary & Benefits",--
+380,GlaxoSmithKline Pharmaceuticals,4.1,Pharma | 1k-5k Employees | Fortune India 500 | 194 years old | Brentford +180 more,"Company Culture, Skill Development / Learning, Work Life Balance",--
+381,Poonawalla Fincorp,3.9,NBFC | 1k-5k Employees | Public | 36 years old | Mumbai +249 more,--,Promotions / Appraisal
+382,ZS,3.5,Management Consulting | 5k-10k Employees | 41 years old | Evanston +9 more,Salary & Benefits,"Work Life Balance, Work Satisfaction, Promotions / Appraisal"
+383,Foundever,3.8,BPO | 5k-10k Employees | Conglomerate | 39 years old | Miami +16 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+384,Whirlpool,4.2,Consumer Electronics & Appliances | 1k-5k Employees | Public | 113 years old | Michigan +139 more,"Work Life Balance, Company Culture, Job Security",--
+385,Force Motors,3.6,Automobile | 1k-5k Employees | Public | 66 years old | Pune +86 more,--,"Promotions / Appraisal, Company Culture, Salary & Benefits"
+386,Bharat Petroleum,4.2,Oil & Gas | 5k-10k Employees | Fortune India 500 | 72 years old | Mumbai +217 more,"Skill Development / Learning, Salary & Benefits, Job Security",Promotions / Appraisal
+387,Endurance Technologies,3.9,Auto Components | 1k-5k Employees | Public | 39 years old | Aurangabad +38 more,Skill Development / Learning,Promotions / Appraisal
+388,NoBroker,3.3,Internet | 1k-5k Employees | Indian Unicorn | 10 years old | Bangalore +36 more,--,"Work Satisfaction, Promotions / Appraisal, Work Life Balance"
+389,Tata Elxsi,4.0,IT Services & Consulting | 5k-10k Employees | Public | 35 years old | Bangalore/Bengaluru +23 more,"Job Security, Work Life Balance, Company Culture",--
+390,Jindal Stainless,4.3,Iron & Steel | 1k-5k Employees | Public | 54 years old | Delhi/NCR +56 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+391,PhonePe,4.1,FinTech | 5k-10k Employees | Indian Unicorn | 9 years old | Bangalore +225 more,"Salary & Benefits, Company Culture, Job Security",--
+392,GVK Emergency Management and Research Institute,3.8,Non-Profit | 10k-50k Employees | 19 years old | Hyderabad/Secunderabad +148 more,--,"Promotions / Appraisal, Job Security, Salary & Benefits"
+393,Fincare Small Finance Bank,4.1,Banking | 10k-50k Employees | 17 years old | Bangalore +355 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+394,ITC Hotels,4.2,Hospitality | 5k-10k Employees | Public | 49 years old | Kolkata +75 more,"Job Security, Skill Development / Learning, Company Culture",--
+395,Syngene International,3.9,Pharma | 1k-5k Employees | Public | 31 years old | Bangalore/Bengaluru +14 more,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal
+396,Shahi Exports,4.0,Retail | 1 Lakh+ Employees | 50 years old | Faridabad +60 more,"Job Security, Skill Development / Learning, Company Culture",--
+397,Kalyan Jewellers,4.7,Jewellery | 5k-10k Employees | Fortune India 500 | 31 years old | Bangalore / Bengaluru +131 more,"Skill Development / Learning, Company Culture, Salary & Benefits",--
+398,Bharti AXA Life Insurance,3.9,Insurance | 1k-5k Employees | 18 years old | Mumbai +218 more,Work Life Balance,--
+399,Delphi TVS,4.1,Auto Components | 1k-5k Employees | 35 years old | Kanchipuram +35 more,"Skill Development / Learning, Work Satisfaction, Company Culture",Promotions / Appraisal
+400,Sobha,4.0,Real Estate | 1k-5k Employees | Public | 29 years old | Bangalore/Bengaluru +33 more,"Job Security, Skill Development / Learning",--
+401,HCL Infosystems,4.0,IT Services & Consulting | 51-200 Employees | Public | 48 years old | Noida +107 more,"Job Security, Work Life Balance, Company Culture",--
+402,Brakes India,4.1,Auto Components | 501-1k Employees | Fortune India 500 | 62 years old | Chennai +73 more,"Job Security, Skill Development / Learning, Work Satisfaction",Promotions / Appraisal
+403,Lodha group,4.1,Real Estate | 5k-10k Employees | Fortune India 500 | 44 years old | Mumbai +24 more,"Skill Development / Learning, Salary & Benefits, Company Culture",--
+404,Care Health Insurance,3.8,Internet | 5k-10k Employees | Public | 12 years old | Gurgaon +194 more,--,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+405,Dhani Loans and Services,3.9,NBFC | 1k-5k Employees | New Delhi +177 more,--,"Job Security, Promotions / Appraisal"
+406,Sterling & Wilson,4.1,Engineering & Construction | 501-1k Employees | 97 years old | Mumbai +100 more,"Work Life Balance, Company Culture, Skill Development / Learning",--
+407,Citicorp,3.8,Financial Services | 1k-5k Employees | 27 years old | Mumbai +23 more,"Job Security, Salary & Benefits","Promotions / Appraisal, Work Satisfaction"
+408,Aavas Financiers,4.0,Financial Services | 5k-10k Employees | Public | 13 years old | Jaipur +232 more,Skill Development / Learning,--
+409,Bureau Veritas,4.0,Other | 1k-5k Employees | Forbes Global 2000 | 196 years old | Paris La Défense +111 more,"Work Life Balance, Job Security",Promotions / Appraisal
+410,CAMS,3.7,IT Services & Consulting | 5k-10k Employees | 36 years old | Chennai +95 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+411,KENT RO Systems,4.1,Consumer Electronics & Appliances | 1k-5k Employees | 25 years old | Noida +138 more,"Work Life Balance, Work Satisfaction, Company Culture",--
+412,Gallagher,3.9,Insurance | 10k-50k Employees | Forbes Global 2000 | 97 years old | Rolling Meadows +16 more,"Company Culture, Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+413,Sopra Steria,4.0,IT Services & Consulting | 5k-10k Employees | Conglomerate | 56 years old | Paris +14 more,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+414,Unacademy,3.3,EdTech | 1k-5k Employees | Indian Unicorn | 9 years old | Bangalore +55 more,--,"Job Security, Promotions / Appraisal, Work Satisfaction"
+415,Varroc Group,3.8,Auto Components | 1k-5k Employees | Public | 36 years old | Aurangabad +34 more,--,"Promotions / Appraisal, Salary & Benefits"
+416,Canara HSBC Life Insurance,3.8,Insurance | 5k-10k Employees | 16 years old | Gurgaon/Gurugram +245 more,--,--
+417,Coromandel International,4.1,Agro Chemicals | 5k-10k Employees | Public | 63 years old | Hyderabad/Secunderabad +144 more,"Job Security, Company Culture, Skill Development / Learning",--
+418,Future Generali India Life Insurance,3.8,Insurance | 1k-5k Employees | 17 years old | Mumbai +169 more,--,Promotions / Appraisal
+419,Allsec Technologies,4.1,BPO | 1k-5k Employees | Public | 24 years old | Chennai +26 more,"Job Security, Work Life Balance, Company Culture",--
+420,Tata Motors Finance,4.1,NBFC | 1k-5k Employees | Conglomerate | 67 years old | Mumbai +224 more,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+421,Cisco,4.4,Hardware & Networking | 10k-50k Employees | Public | 40 years old | San Jose +35 more,"Work Life Balance, Company Culture, Skill Development / Learning",--
+422,Power Mech Projects,3.9,Engineering & Construction | 1k-5k Employees | Public | 17 years old | Hyderabad/Secunderabad +117 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+423,café Coffee day,4.0,Hospitality | 1k-5k Employees | 28 years old | Bengaluru +91 more,"Skill Development / Learning, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+424,Gabriel India,4.2,Auto Components | 1k-5k Employees | Public | 63 years old | Pune +40 more,"Job Security, Skill Development / Learning, Company Culture",--
+425,RMSI,3.8,IT Services & Consulting | 1k-5k Employees | 32 years old | Noida +12 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+426,Star Health & Allied Insurance,3.9,Insurance | 10k-50k Employees | Fortune India 500 | 18 years old | Chennai +246 more,--,Promotions / Appraisal
+427,Adani Wilmar,4.2,FMCG | 1k-5k Employees | Public | 25 years old | Ahmedabad +152 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+428,JK Tyres,3.8,Auto Components | 1k-5k Employees | Fortune India 500 | 73 years old | New Delhi +129 more,--,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+429,IntouchCX,3.0,BPO | 5k-10k Employees | 23 years old | Winnipeg +17 more,--,"Promotions / Appraisal, Job Security, Salary & Benefits"
+430,DBS Bank,3.9,Banking | 5k-10k Employees | 9 years old | Hyderabad/Secunderabad +137 more,"Salary & Benefits, Job Security",Promotions / Appraisal
+431,KIA MOTORS,3.9,Automobile | 1k-5k Employees | Forbes Global 2000 | 80 years old | Seoul +134 more,--,"Promotions / Appraisal, Salary & Benefits"
+432,Straive,3.5,Analytics & KPO | 10k-50k Employees | 44 years old | Singapore +22 more,--,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+433,Lucas-TVS,4.0,Auto Components | 5k-10k Employees | 63 years old | Chennai +59 more,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal
+434,Bank of Baroda,3.6,Banking | 50k-1 Lakh Employees | Fortune India 500 | 116 years old | Vadodara/Baroda +241 more,Job Security,"Promotions / Appraisal, Work Satisfaction, Company Culture"
+435,Sify Technologies,4.0,IT Services & Consulting | 1k-5k Employees | 29 years old | Chennai +106 more,"Skill Development / Learning, Job Security, Work Life Balance",Promotions / Appraisal
+436,Planet Spark,3.8,EdTech | 51-200 Employees | Startup | 7 years old | Gurgaon +41 more,Skill Development / Learning,--
+437,Laurus Labs,4.2,Pharma | 5k-10k Employees | Public | 19 years old | Hyderabad/Secunderabad +14 more,"Job Security, Company Culture, Work Life Balance",--
+438,ValueLabs,3.9,IT Services & Consulting | 5k-10k Employees | 27 years old | Hyderabad/Secunderabad +15 more,"Salary & Benefits, Work Life Balance",--
+439,Hero FinCorp,4.2,NBFC | 1k-5k Employees | 33 years old | Delhi +319 more,"Company Culture, Work Life Balance, Skill Development / Learning",--
+440,Hindustan Aeronautics,4.4,Defence & Aerospace | 10k-50k Employees | Fortune India 500 | 84 years old | Bangalore/Bengaluru +46 more,"Skill Development / Learning, Work Life Balance, Work Satisfaction",--
+441,Indian Navy,4.6,Defence & Aerospace | 50k-1 Lakh Employees | Central | 74 years old | Delhi/NCR +57 more,"Job Security, Skill Development / Learning, Salary & Benefits",--
+442,ABC,3.9,Broadcasting | 1k-5k Employees (Global) | Public | 81 years old | New York +101 more,"Salary & Benefits, Work Life Balance, Company Culture",--
+443,upGrad,3.9,EdTech | 5k-10k Employees | Indian Unicorn | 9 years old | San Francisco +38 more,"Salary & Benefits, Skill Development / Learning, Company Culture",--
+444,Parle Products,4.0,Food Processing | 1k-5k Employees | 95 years old | Mumbai +189 more,Salary & Benefits,Company Culture
+445,Thomson Reuters,4.2,Legal | 5k-10k Employees | Forbes Global 2000 | 16 years old | Toronto +24 more,"Work Life Balance, Company Culture, Job Security",--
+446,Adani Power,4.0,Power | 1k-5k Employees | Public | 18 years old | Ahmedabad +79 more,"Skill Development / Learning, Job Security",--
+447,Taurus BPO Services,4.6,BPO | 1k-5k Employees | 9 years old | Pune +14 more,"Skill Development / Learning, Company Culture, Job Security",--
+448,ESAF Microfinance & Investments (P),3.9,Financial Services | 1k-5k Employees | 8 years old | Thrissur/Trichur +282 more,Job Security,--
+449,Akums Drugs & Pharmaceuticals,4.1,Pharma | 10k-50k Employees | Public | 20 years old | Delhi/NCR +28 more,"Job Security, Skill Development / Learning, Company Culture",--
+450,Uflex,3.8,Packaging | 5k-10k Employees | Public | 39 years old | Noida +41 more,Job Security,"Promotions / Appraisal, Company Culture"
+451,SAP,4.3,Software Product | 10k-50k Employees | Forbes Global 2000 | 52 years old | Walldorf +42 more,"Work Life Balance, Company Culture, Job Security",--
+452,AECOM,4.3,Engineering & Construction | 1k-5k Employees | 34 years old | Dallas +106 more,"Work Life Balance, Company Culture, Skill Development / Learning",--
+453,Intellect Design Arena,4.1,FinTech | 5k-10k Employees | Public | 13 years old | Chennai +27 more,"Job Security, Company Culture, Salary & Benefits",--
+454,Cargill,4.2,Food Processing | 1k-5k Employees | Conglomerate | 159 years old | Wayzata +89 more,"Job Security, Company Culture, Salary & Benefits",Promotions / Appraisal
+455,TVS Sundram Fasteners,3.8,Auto Components | 1k-5k Employees | Public | 62 years old | Chennai +41 more,--,"Promotions / Appraisal, Salary & Benefits"
+456,CMA CGM,4.1,Ports & Shipping | 501-1k Employees | 46 years old | Marseille +30 more,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+457,SGS,4.0,1k-5k Employees | Forbes Global 2000 | 146 years old | Geneva +111 more,Work Life Balance,Promotions / Appraisal
+458,Citibank,4.0,Banking | 10k-50k Employees (Global) | Fortune India 500 | 212 years old | New York +46 more,"Salary & Benefits, Job Security, Company Culture",--
+459,Google,4.4,Internet | 10k-50k Employees | 29 years old | Mountain View +77 more,"Company Culture, Salary & Benefits, Work Life Balance",--
+460,IDBI Bank,3.8,Banking | 10k-50k Employees | Public | 60 years old | Mumbai +282 more,Job Security,"Promotions / Appraisal, Work Satisfaction, Work Life Balance"
+461,Microsoft Corporation,4.1,Software Product | 10k-50k Employees | Forbes Global 2000 | 49 years old | Sunnyvale +43 more,"Company Culture, Work Life Balance, Skill Development / Learning",--
+462,Dr Lal PathLabs,4.2,Healthcare | 1k-5k Employees | Public | 75 years old | Gurgaon/Gurugram +152 more,"Skill Development / Learning, Company Culture, Job Security",--
+463,Honda,4.2,Automobile | 10k-50k Employees | Forbes Global 2000 | 39 years old | Greater Noida +197 more,"Job Security, Skill Development / Learning, Company Culture",--
+464,Novartis,4.1,Pharma | 1k-5k Employees | 28 years old | Switzerland +64 more,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal
+465,Reliance General Insurance,3.9,Insurance | 5k-10k Employees | 24 years old | Mumbai +168 more,--,Promotions / Appraisal
+466,Renault Nissan Technology & Business Centre India,3.9,IT Services & Consulting | 5k-10k Employees | 17 years old | Chennai +13 more,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits"
+467,TCE,3.8,Engineering & Construction | 5k-10k Employees | 62 years old | Mumbai +98 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+468,L&T Energy Hydrocarbon,3.9,Engineering & Construction | 5k-10k Employees | 15 years old | Mumbai +68 more,"Job Security, Skill Development / Learning","Promotions / Appraisal, Work Life Balance, Salary & Benefits"
+469,Optum Global Solutions,4.1,IT Services & Consulting | 10k-50k Employees | 22 years old | Gurgaon / Gurugram +12 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+470,Kotak Securities,3.7,Financial Services | 5k-10k Employees | Conglomerate | 30 years old | Mumbai +117 more,--,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction"
+471,Narayana Health,4.2,Healthcare | 10k-50k Employees | Fortune India 500 | 24 years old | Bangalore/Bengaluru +58 more,"Job Security, Skill Development / Learning, Company Culture",--
+472,Big Bazaar,4.2,Retail | 10k-50k Employees | Conglomerate | 23 years old | Mumbai +157 more,"Skill Development / Learning, Company Culture, Work Satisfaction",--
+473,Meesho,3.7,Internet | 5k-10k Employees | Indian Unicorn | 9 years old | Bengaluru/Bangalore +94 more,Salary & Benefits,"Job Security, Promotions / Appraisal"
+474,AXA Business Services,3.8,Insurance | 501-1k Employees | 78 years old | Paris +8 more,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits"
+475,Xoriant,3.9,IT Services & Consulting | 1k-5k Employees | 34 years old | Sunnyvale +19 more,"Work Life Balance, Company Culture, Salary & Benefits",--
+476,Honeywell Automation,3.8,Consumer Electronics & Appliances | 10k-50k Employees | Public | 118 years old | Morris Plains +62 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+477,Spark Minda,3.9,Auto Components | 1k-5k Employees | Public | 66 years old | Gurgaon +60 more,--,Promotions / Appraisal
+478,BA Continuum,4.3,NBFC | 1k-5k Employees | 21 years old | Gurgaon/Gurugram +15 more,"Job Security, Work Life Balance, Company Culture",--
+479,YASH Technologies,3.8,IT Services & Consulting | 5k-10k Employees | 28 years old | East Moline +19 more,"Work Life Balance, Company Culture",Promotions / Appraisal
+480,SBI General Insurance,3.9,Insurance | 5k-10k Employees | 15 years old | Mumbai +206 more,Job Security,Promotions / Appraisal
+481,Wockhardt,3.9,Pharma | 5k-10k Employees | Public | 25 years old | Mumbai +77 more,"Work Life Balance, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+482,Vedantu,3.4,EdTech | 1k-5k Employees | Indian Unicorn | 13 years old | Bangalore +51 more,--,"Job Security, Promotions / Appraisal, Work Satisfaction"
+483,CMS Infosystems,3.7,IT Services & Consulting | 5k-10k Employees | 16 years old | Mumbai +165 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+484,MetLife,4.3,Insurance | 1k-5k Employees | Forbes Global 2000 | 16 years old | New York +37 more,"Job Security, Work Life Balance, Company Culture",--
+485,Philips,3.9,Consumer Electronics & Appliances | 5k-10k Employees | Forbes Global 2000 | 94 years old | Amsterdam +85 more,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal
+486,Tata Play,4.1,Broadcasting | 5k-10k Employees | Public | 18 years old | Mumbai +190 more,"Job Security, Company Culture, Skill Development / Learning",--
+487,Apollo Pharmacy,3.9,Pharma | 10k-50k Employees | 41 years old | Chennai +199 more,"Job Security, Skill Development / Learning",Promotions / Appraisal
+488,Vardhman Fabrics,4.1,Fashion & Textile | 10k-50k Employees | Fortune India 500 | 59 years old | Ludhiana +55 more,"Job Security, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+489,Aragen Life Sciences,4.1,Pharma | 1k-5k Employees | 24 years old | Hyderabad/Secunderabad +18 more,"Skill Development / Learning, Job Security, Company Culture",--
+490,NCR Corporation,4.1,IT Services & Consulting | 5k-10k Employees | Forbes Global 2000 | 140 years old | Atlanta +80 more,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+491,Niva Bupa Health Insurance Company,3.7,Insurance | 5k-10k Employees | 16 years old | Delhi/NCR +183 more,--,Promotions / Appraisal
+492,G R Infraprojects,4.2,Engineering & Construction | 10k-50k Employees | Public | 29 years old | Gurgaon/Gurugram +131 more,"Skill Development / Learning, Salary & Benefits, Company Culture",--
+493,Biological E,4.2,Biotechnology | 1k-5k Employees | 71 years old | Hyderabad/Secunderabad +46 more,"Job Security, Company Culture, Work Life Balance",--
+494,Frankfinn Institute of Air Hostess Training,4.0,Education & Training | 1k-5k Employees | 31 years old | Gurgaon/Gurugram +57 more,"Skill Development / Learning, Salary & Benefits, Company Culture",--
+495,Safexpress,4.2,Logistics | 1k-5k Employees | Conglomerate | 27 years old | Delhi/NCR +142 more,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+496,Crisil,3.8,Financial Services | 1k-5k Employees | Public | 37 years old | Mumbai +54 more,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+497,Innovsource Services,4.0,Recruitment | 1k-5k Employees | 20 years old | Mumbai +194 more,--,Promotions / Appraisal
+498,Microland,3.6,IT Services & Consulting | 1k-5k Employees | Public | 35 years old | Pune +41 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+499,Exl India,3.6,IT Services & Consulting | 11-50 Employees | 67 years old | Pune +26 more,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+500,Allstate,4.0,Insurance | 5k-10k Employees | Forbes Global 2000 | 12 years old | Bangalore/Bengaluru +9 more,"Work Life Balance, Company Culture, Job Security",--
+501,Amazon Transportation Services,4.2,Logistics | 1k-5k Employees | 12 years old | Seattle +131 more,"Salary & Benefits, Company Culture, Skill Development / Learning",--
+502,PHN Technology,4.6,Pune +30 more,"Skill Development / Learning, Work Satisfaction, Company Culture",--
+503,Panasonic Life Solutions,4.1,Electrical Equipment | 10k-50k Employees | 61 years old | Mumbai +109 more,"Job Security, Work Life Balance, Salary & Benefits",Promotions / Appraisal
+504,Metro Cash & Carry,4.2,Retail | 1k-5k Employees | Forbes Global 2000 | 60 years old | Bangalore/Bengaluru +76 more,"Job Security, Skill Development / Learning, Company Culture",--
+505,R.R. Donnelley,4.1,Marketing & Advertising | 5k-10k Employees | 160 years old | Chicago +12 more,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+506,SBI Securities,3.9,Financial Services | 5k-10k Employees | 18 years old | Mumbai +215 more,--,Promotions / Appraisal
+507,Angel One,3.9,Financial Services | 1k-5k Employees | Mumbai +113 more,"Company Culture, Work Life Balance",Promotions / Appraisal
+508,SS&C TECHNOLOGIES,3.6,IT Services & Consulting | 5k-10k Employees | Forbes Global 2000 | 38 years old | Windsor Locks +25 more,Job Security,"Promotions / Appraisal, Work Life Balance, Work Satisfaction"
+509,Reckitt Benckiser,4.0,FMCG | 1k-5k Employees | Conglomerate | 25 years old | Slough +115 more,"Salary & Benefits, Work Life Balance, Company Culture",Promotions / Appraisal
+510,Bhushan Power & Steel,4.0,Iron & Steel | 5k-10k Employees | 54 years old | Delhi/NCR +52 more,Skill Development / Learning,Promotions / Appraisal
+511,Bharat Financial Inclusion,4.1,NBFC | 10k-50k Employees | Public | 26 years old | Hyderabad +313 more,"Salary & Benefits, Job Security, Company Culture",--
+512,CitiusTech,3.5,IT Services & Consulting | 1k-5k Employees | Indian Unicorn | 19 years old | New Jersey +14 more,--,"Promotions / Appraisal, Job Security, Work Satisfaction"
+513,Matrimony.com,4.4,Internet | 1k-5k Employees | Public | 27 years old | Chennai +49 more,"Company Culture, Job Security, Work Life Balance",--
+514,Motherson Automotive Technologies and Engineering,4.0,Auto Components | 501-1k Employees | 27 years old | Noida +55 more,"Job Security, Skill Development / Learning",Promotions / Appraisal
+515,USV,4.1,Pharma | 1k-5k Employees | Fortune India 500 | 63 years old | Mumbai +87 more,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+516,Procter & Gamble,4.2,FMCG | 1k-5k Employees | Public | 187 years old | Cincinnati +204 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+517,XL Dynamics,3.2,IT Services & Consulting | 1k-5k Employees | 22 years old | Navi Mumbai +27 more,--,"Job Security, Company Culture, Work Life Balance"
+518,Adecco Group,3.8,Recruitment | 1k-5k Employees | Forbes Global 2000 | 25 years old | Zurich +126 more,--,"Promotions / Appraisal, Job Security"
+519,Yamaha Motor,4.2,Automobile | 1k-5k Employees | Fortune India 500 | 17 years old | Iwata +126 more,"Work Life Balance, Skill Development / Learning, Work Satisfaction",--
+520,Dainik Bhaskar Group,4.4,Printing & Publishing | 5k-10k Employees | Public | 66 years old | Bhopal +129 more,"Company Culture, Skill Development / Learning, Work Life Balance",--
+521,Aditya Birla Capital,4.0,Financial Services | 10k-50k Employees | Public | 7 years old | Mumbai +183 more,"Job Security, Work Life Balance, Company Culture",--
+522,HERE Technologies,3.8,IT Services & Consulting | 1k-5k Employees | 39 years old | Eindhoven +14 more,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+523,Cavinkare,4.0,FMCG | 1k-5k Employees | Conglomerate | 41 years old | Chennai +149 more,"Work Life Balance, Skill Development / Learning, Company Culture",--
+524,USHA International,4.2,Consumer Electronics & Appliances | 1k-5k Employees | Public | 90 years old | Gurgaon/Gurugram +111 more,"Job Security, Skill Development / Learning, Company Culture",--
+525,Mercedes-Benz Research & Development India,4.0,IT Services & Consulting | 5k-10k Employees | Public | 28 years old | Bengaluru/Bangalore +49 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+526,Team Computers,3.7,IT Services & Consulting | 1k-5k Employees | 37 years old | Delhi/NCR +83 more,--,"Promotions / Appraisal, Salary & Benefits"
+527,KONE,4.3,Industrial Machinery | 5k-10k Employees | Forbes Global 2000 | 114 years old | Chennai +65 more,"Job Security, Company Culture, Work Life Balance",--
+528,NTPC,4.3,10k-50k Employees | Fortune India 500 | 49 years old | Delhi/NCR +100 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+529,Isgec Heavy Engineering,3.9,Industrial Machinery | 1k-5k Employees | Public | 91 years old | Noida +69 more,Job Security,Promotions / Appraisal
+530,DHL Supply Chain,4.3,Logistics | 1k-5k Employees | 55 years old | Bonn +78 more,"Job Security, Company Culture, Skill Development / Learning",--
+531,Mother Dairy Fruit & Vegetable,4.2,Food Processing | 1k-5k Employees | 50 years old | Noida +111 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+532,Torrent Power,3.8,Power | 5k-10k Employees | Public | 28 years old | Ahmedabad +37 more,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+533,PI Industries,4.1,Agro Chemicals | 1k-5k Employees | Public | 77 years old | Gurgaon/Gurugram +87 more,"Salary & Benefits, Skill Development / Learning, Job Security",--
+534,Oberoi Group of Hotels,4.2,Hospitality | 1k-5k Employees | 90 years old | Delhi/NCR +31 more,"Job Security, Skill Development / Learning, Company Culture",--
+535,Honeywell Technology Solutions,3.9,Defence & Aerospace | 10k-50k Employees | 30 years old | Bangalore/Bengaluru +18 more,"Job Security, Company Culture",Promotions / Appraisal
+536,Chegg,4.2,EdTech | 501-1k Employees | 19 years old | Santa Clara +61 more,"Work Life Balance, Skill Development / Learning, Company Culture",--
+537,DIVI'S Laboratories,3.9,Healthcare | 10k-50k Employees | Public | 34 years old | Hyderabad/Secunderabad +21 more,Job Security,"Work Satisfaction, Promotions / Appraisal, Company Culture"
+538,Honda Cars,4.4,Automobile | 5k-10k Employees | Fortune India 500 | Alwar +87 more,"Work Life Balance, Company Culture, Work Satisfaction",--
+539,Sigma Electric Manufacturing Corporation,4.0,Industrial Machinery | 1k-5k Employees | 42 years old | Garner +20 more,"Company Culture, Skill Development / Learning",Promotions / Appraisal
+540,Haier Appliances India,4.1,Consumer Electronics & Appliances | 1k-5k Employees | Conglomerate | 20 years old | Qingdao +111 more,"Salary & Benefits, Skill Development / Learning, Work Life Balance",--
+541,Johnson & Johnson,4.2,Pharma | 1k-5k Employees | Forbes Global 2000 | 67 years old | New Brunswick +136 more,"Company Culture, Skill Development / Learning, Work Life Balance",--
+542,Credit Suisse,4.2,Financial Services | 10k-50k Employees | 168 years old | Zurich +9 more,"Work Life Balance, Company Culture, Salary & Benefits",Job Security
+543,Saint-Gobain,4.1,Building Material | 10k-50k Employees | Forbes Global 2000 | 359 years old | Paris +86 more,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal
+544,Max Fashion,4.2,Retail | 10k-50k Employees | 10 years old | Abu Dhabi +137 more,"Skill Development / Learning, Job Security, Company Culture",--
+545,Arvind Group,4.1,Fashion & Textile | 10k-50k Employees | Public | 93 years old | Ahmedabad +79 more,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+546,Verizon,4.2,Telecom | 5k-10k Employees | Forbes Global 2000 | 24 years old | New York City +11 more,"Salary & Benefits, Company Culture, Work Life Balance",--
+547,Jindal Saw,4.0,Building Material | 5k-10k Employees | Public | 40 years old | Delhi/NCR +61 more,Job Security,--
+548,Hyatt Regency,4.2,Hospitality | 1k-5k Employees | Forbes Global 2000 | 44 years old | New Delhi +44 more,"Skill Development / Learning, Company Culture, Job Security",--
+549,Paisabazaar.com,3.7,Internet | 1k-5k Employees | Startup | 10 years old | Gurgaon/Gurugram +15 more,--,"Job Security, Promotions / Appraisal, Work Satisfaction"
+550,Tata Communications Transformation Services,4.2,Hardware & Networking | 1k-5k Employees | 18 years old | Mumbai +82 more,"Job Security, Company Culture, Work Life Balance",--
+551,Star Union Dai-ichi Life Insurance,3.9,Insurance | 1k-5k Employees | 15 years old | Navi Mumbai +222 more,--,--
+552,V-Guard Industries,4.4,Consumer Electronics & Appliances | 1k-5k Employees | Public | 47 years old | Kochi/Cochin +128 more,"Company Culture, Job Security, Work Life Balance",--
+553,Medi Assist India,3.7,Insurance | 5k-10k Employees | 24 years old | Bangalore +53 more,--,"Promotions / Appraisal, Salary & Benefits"
+554,DHL Express,4.1,Logistics | 1k-5k Employees | Conglomerate | 45 years old | Bonn +82 more,"Job Security, Company Culture, Work Life Balance",--
+555,Exela Technologies,3.5,IT Services & Consulting | 1k-5k Employees | 13 years old | Irving +20 more,--,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+556,Daikin,4.2,Consumer Electronics & Appliances | 1k-5k Employees | Fortune India 500 | 24 years old | Osaka City +86 more,"Job Security, Company Culture, Work Life Balance",--
+557,Globiva,3.2,BPO | 1k-5k Employees | 7 years old | Gurgaon/Gurugram +16 more,--,"Promotions / Appraisal, Salary & Benefits, Job Security"
+558,FactSet,4.0,Financial Services | 1k-5k Employees | 46 years old | Norwalk +13 more,"Company Culture, Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits"
+559,Tata Group,4.3,IT Services & Consulting | 1 Lakh+ Employees | Conglomerate | 156 years old | Mumbai +151 more,"Job Security, Company Culture, Work Life Balance",--
+560,CG Power and Industrial Solutions,3.9,Electrical Equipment | 1k-5k Employees | Public | 87 years old | Mumbai +82 more,Job Security,Promotions / Appraisal
+561,HDFC Securities,3.6,Financial Services | 1k-5k Employees | Public | 24 years old | Mumbai +162 more,--,"Promotions / Appraisal, Work Satisfaction, Work Life Balance"
+562,Haldiram Foods,4.0,FMCG | 1k-5k Employees | 54 years old | Nagpur +120 more,--,Promotions / Appraisal
+563,Piramal Group,4.0,Financial Services | 10k-50k Employees | Fortune India 500 | 44 years old | Mumbai +122 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+564,UBS,3.9,Investment Banking / Venture Capital / Private Equity | 5k-10k Employees | Forbes Global 2000 | 9 years old | Zurich +30 more,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+565,Medanta the Medicity,4.2,Healthcare | 5k-10k Employees | 15 years old | Gurgaon +33 more,"Job Security, Skill Development / Learning, Company Culture",--
+566,Nuvoco Vistas,4.3,Building Material | 1k-5k Employees | Fortune India 500 | 25 years old | Mumbai +141 more,"Job Security, Skill Development / Learning, Company Culture",--
+567,Aadhar Housing Finance,4.1,Financial Services | 1k-5k Employees | 14 years old | Mumbai +247 more,"Job Security, Skill Development / Learning, Salary & Benefits",--
+568,Orange Business,4.3,IT Services & Consulting | 1k-5k Employees | Forbes Global 2000 | 32 years old | Paris +45 more,"Job Security, Work Life Balance, Company Culture",--
+569,Hindustan Petroleum,4.2,Oil & Gas | 5k-10k Employees | Central | 50 years old | Mumbai +202 more,"Salary & Benefits, Skill Development / Learning, Company Culture",--
+570,Relaxo Footwear,4.3,Fashion & Textile | 5k-10k Employees | Public | 40 years old | New Delhi +126 more,"Job Security, Company Culture, Work Satisfaction",--
+571,FirstCry,3.8,Retail | 1k-5k Employees | Indian Unicorn | 14 years old | Pune +143 more,--,"Promotions / Appraisal, Salary & Benefits"
+572,Morgan Stanley,3.7,Financial Services | 10k-50k Employees | Forbes Global 2000 | 93 years old | New York +16 more,--,"Promotions / Appraisal, Job Security, Work Satisfaction"
+573,First American Corporation,3.9,IT Services & Consulting | 1k-5k Employees | Forbes Global 2000 | 135 years old | Santa Ana +13 more,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+574,BNP Paribas,3.9,Financial Services | 10k-50k Employees | Forbes Global 2000 | 176 years old | Paris +21 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+575,Aforeserve,3.5,IT Services & Consulting | 1k-5k Employees | 24 years old | Noida +148 more,--,"Promotions / Appraisal, Salary & Benefits, Job Security"
+576,Photon Interactive,3.9,IT Services & Consulting | 1k-5k Employees | 25 years old | London +9 more,"Salary & Benefits, Skill Development / Learning, Work Life Balance",--
+577,Oracle Cerner,3.8,IT Services & Consulting | 5k-10k Employees | Public | 45 years old | Kansas +5 more,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Skill Development / Learning, Salary & Benefits"
+578,Biocon Biologics,3.8,Biotechnology | 1k-5k Employees | Public | 46 years old | Bangalore/Bengaluru +30 more,--,"Promotions / Appraisal, Work Satisfaction"
+579,Belrise Industries,3.8,Auto Components | 10k-50k Employees | 28 years old | Aurangabad +38 more,--,"Promotions / Appraisal, Salary & Benefits"
+580,Aon,4.0,Financial Services | 5k-10k Employees | Forbes Global 2000 | 84 years old | London +18 more,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+581,Security and Intelligence Services (India),4.2,Law Enforcement & Security | 1 Lakh+ Employees | Public | 39 years old | Delhi/NCR +154 more,"Job Security, Work Life Balance, Skill Development / Learning",--
+582,IDC Technologies,3.3,IT Services & Consulting | 1k-5k Employees | 21 years old | Milpitas +55 more,--,"Job Security, Promotions / Appraisal, Skill Development / Learning"
+583,Emami,4.0,Beauty & Personal Care | 1k-5k Employees | Public | 50 years old | Kolkata +148 more,"Job Security, Work Life Balance",Promotions / Appraisal
+584,Bata,3.9,Fashion & Textile | 1k-5k Employees | Public | 93 years old | Lausanne +117 more,Skill Development / Learning,Promotions / Appraisal
+585,Exotic Learning,4.5,EdTech | 51-200 Employees | 4 years old | Lucknow +141 more,"Company Culture, Work Life Balance, Skill Development / Learning",--
+586,Dell EMC,4.2,IT Services & Consulting | 5k-10k Employees | 45 years old | Hopkinton +51 more,"Work Life Balance, Company Culture, Job Security",--
+587,Fusion BPO Services,3.1,BPO | 1k-5k Employees | 20 years old | Kolkata +44 more,--,"Promotions / Appraisal, Job Security, Salary & Benefits"
+588,Hindustan Construction Company,4.2,Engineering & Construction | 1k-5k Employees | Public | 98 years old | Mumbai +83 more,"Job Security, Skill Development / Learning, Company Culture",--
+589,Toyota Kirloskar Motor,4.4,Automobile | 5k-10k Employees | Fortune India 500 | 27 years old | Bangalore/Bengaluru +70 more,"Company Culture, Skill Development / Learning, Job Security",--
+590,Marriott International,4.3,Hospitality | 10k-50k Employees | Forbes Global 2000 | 97 years old | Bethesda +72 more,"Skill Development / Learning, Job Security, Company Culture",--
+591,Narayana Educational Society,3.7,Education & Training | 1k-5k Employees | 39 years old | Hyderabad/Secunderabad +129 more,--,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+592,Mercer,3.8,Management Consulting | 1k-5k Employees | 79 years old | New York +17 more,Job Security,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+593,Tesco,3.9,Retail | 1k-5k Employees | Forbes Global 2000 | 105 years old | Hertfordshire +14 more,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits"
+594,KFC,4.3,Hospitality | 5k-10k Employees | 72 years old | Louisville +137 more,"Skill Development / Learning, Company Culture, Job Security",--
+595,Faurecia,4.0,Auto Components | 1k-5k Employees | 27 years old | Nanterre +25 more,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal
+596,Tata Power,4.0,Power | 10k-50k Employees | Public | 113 years old | Mumbai +119 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+597,Trident Group,3.5,Fashion & Textile | 10k-50k Employees | Public | 34 years old | Ludhiana +43 more,Salary & Benefits,"Job Security, Company Culture, Work Life Balance"
+598,FedEx Express,4.3,Logistics | 5k-10k Employees | Forbes Global 2000 | 53 years old | 	Moon Township +90 more,"Company Culture, Skill Development / Learning, Work Life Balance",--
+599,Iris Software,4.2,IT Services & Consulting | 1k-5k Employees | 33 years old | Edison +16 more,"Company Culture, Salary & Benefits, Work Life Balance",--
+600,Trent,4.1,Retail | 10k-50k Employees | Public | 26 years old | Mumbai +108 more,"Job Security, Skill Development / Learning, Company Culture",--
+601,Veritas Finance,4.7,NBFC | 1k-5k Employees | Startup | 9 years old | Chennai +259 more,"Company Culture, Job Security, Work Satisfaction",--
+602,Altruist Technologies,3.2,BPO | 1k-5k Employees | 19 years old | Chandigarh +30 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+603,Ola Electric Mobility,3.3,Automobile | 5k-10k Employees | Indian Unicorn | 7 years old | Bangalore +161 more,--,"Job Security, Work Life Balance, Company Culture"
+604,L.G.Balakrishnan & Bros,3.7,Auto Components | 1k-5k Employees | Public | 87 years old | Coimbatore +38 more,--,"Salary & Benefits, Promotions / Appraisal, Company Culture"
+605,Marico,4.1,FMCG | 1k-5k Employees | Public | 36 years old | Mumbai +147 more,"Skill Development / Learning, Salary & Benefits, Company Culture",Promotions / Appraisal
+606,HTC Global Services,3.6,IT Services & Consulting | 5k-10k Employees | 34 years old | Troy +25 more,--,"Promotions / Appraisal, Skill Development / Learning, Company Culture"
+607,TaskUs,3.5,BPO | 5k-10k Employees | 16 years old | New Braunfels +22 more,--,"Promotions / Appraisal, Job Security, Salary & Benefits"
+608,Tata Advanced Systems,3.9,Defence & Aerospace | 5k-10k Employees | 17 years old | Hyderabad/Secunderabad +35 more,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+609,iOPEX Technologies,3.8,IT Services & Consulting | 1k-5k Employees | 15 years old | San Jose +14 more,"Job Security, Skill Development / Learning",--
+610,NIIT,3.6,Education & Training | 1k-5k Employees | Public | 43 years old | Gurgaon / Gurugram +95 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+611,Muthoot Group,3.7,Financial Services | 10k-50k Employees | Public | 137 years old | Wedel +270 more,--,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+612,Suguna Foods,4.1,Food Processing | 5k-10k Employees | 40 years old | Coimbatore +157 more,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal
+613,Polycab Wires,4.1,Electrical Equipment | 1k-5k Employees | Fortune India 500 | 28 years old | Mumbai +113 more,"Salary & Benefits, Work Life Balance",--
+614,Jet Airways,4.6,Aviation | 201-500 Employees | Public | 31 years old | Mumbai +45 more,"Skill Development / Learning, Work Satisfaction, Company Culture",--
+615,Infinite Computer Solutions,3.5,IT Services & Consulting | 1k-5k Employees | Public | 23 years old | Rockville  +28 more,--,"Promotions / Appraisal, Job Security, Skill Development / Learning"
+616,Hero Motors Company,4.1,Automobile | 201-500 Employees | 26 years old | New Delhi +195 more,"Company Culture, Work Life Balance, Skill Development / Learning",--
+617,Sony,4.4,Consumer Electronics & Appliances | 1k-5k Employees | Public | 30 years old | Delhi/NCR +127 more,"Company Culture, Work Life Balance, Job Security",--
+618,Bajaj Capital,3.9,Financial Services | 1k-5k Employees | Public | 60 years old | Delhi/NCR +142 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+619,Krishna Maruti,4.0,Auto Components | 1k-5k Employees | 30 years old | Gurgaon/Gurugram +29 more,"Skill Development / Learning, Work Life Balance, Company Culture",Promotions / Appraisal
+620,Welspun,4.1,Fashion & Textile | 10k-50k Employees | Fortune India 500 | 39 years old | Mumbai +58 more,"Skill Development / Learning, Company Culture",--
+621,Manipal Hospitals,4.2,Healthcare | 1k-5k Employees | 71 years old | Bangalore/Bengaluru +49 more,"Skill Development / Learning, Job Security, Company Culture",--
+622,Oracle Financial Services Software,3.7,IT Services & Consulting | 10k-50k Employees | Public | 34 years old | Mumbai +18 more,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+623,Pantaloons,4.2,Fashion & Textile | 5k-10k Employees | Public | 27 years old | Mumbai +141 more,"Job Security, Skill Development / Learning, Company Culture",--
+624,Inox Leisure,4.1,Media & Entertainment | 1k-5k Employees | Public | 25 years old | Mumbai +84 more,"Company Culture, Job Security, Skill Development / Learning",Promotions / Appraisal
+625,SRL Diagnostics,4.2,Healthcare | 5k-10k Employees | 29 years old | Mumbai +117 more,"Skill Development / Learning, Company Culture, Job Security",--
+626,Satin Creditcare Network,4.2,NBFC | 5k-10k Employees | Public | 34 years old | Gurgaon/Gurugram +230 more,"Company Culture, Work Life Balance, Job Security",--
+627,Nayara Energy,4.3,Petrochemicals | 1k-5k Employees | Fortune India 500 | 35 years old | Mumbai +75 more,"Job Security, Salary & Benefits, Work Life Balance",--
+628,ISS Facility Services,4.2,Facility Management Services | 10k-50k Employees | 19 years old | Copenhagen +54 more,"Work Life Balance, Job Security, Company Culture",--
+629,ZF Commercial Vehicle Control Systems,4.0,Auto Components | Chennai +34 more,"Skill Development / Learning, Company Culture","Promotions / Appraisal, Job Security"
+630,Akzo Nobel India,4.1,Chemicals | 1k-5k Employees | Public | 85 years old | Amsterdam +126 more,"Company Culture, Salary & Benefits, Job Security",Promotions / Appraisal
+631,Fabindia,3.9,Fashion & Textile | 1k-5k Employees | 66 years old | Delhi/NCR +82 more,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal
+632,Barclays Shared Services,4.1,IT Services & Consulting | 5k-10k Employees | 17 years old | London +12 more,"Company Culture, Job Security, Work Life Balance",--
+633,TTEC India,3.8,BPO | 1k-5k Employees | Public | 40 years old | Englewood +24 more,Company Culture,"Promotions / Appraisal, Salary & Benefits"
+634,J. Kumar Infraprojects,4.1,Engineering & Construction | 5k-10k Employees | Public | 44 years old | Mumbai +29 more,"Job Security, Skill Development / Learning, Work Satisfaction",--
+635,Cushman & Wakefield,4.3,Real Estate | 1k-5k Employees | 27 years old | Chicago +37 more,"Company Culture, Work Life Balance, Job Security",--
+636,Collabera Technologies,3.5,IT Services & Consulting | 501-1k Employees | 33 years old | Basking Ridge +47 more,--,"Promotions / Appraisal, Job Security, Work Satisfaction"
+637,ICICI Home Finance,3.7,NBFC | 1k-5k Employees | 25 years old | Mumbai +182 more,Salary & Benefits,"Work Life Balance, Work Satisfaction"
+638,Gland Pharma,3.7,Pharma | 1k-5k Employees | Fortune India 500 | 46 years old | Hyderabad/Secunderabad +27 more,--,"Salary & Benefits, Promotions / Appraisal, Company Culture"
+639,Daimler India Commercial Vehicles,4.2,Automobile | 1k-5k Employees | 138 years old | Chennai +38 more,"Work Life Balance, Job Security, Company Culture",--
+640,Biocon Limited,3.9,Biotechnology | 5k-10k Employees | Public | 46 years old | Bangalore Rural +48 more,Job Security,Promotions / Appraisal
+641,Adani Group,3.9,Power | 10k-50k Employees | Public | 36 years old | Ahmedabad +116 more,"Job Security, Salary & Benefits",--
+642,VLCC,3.7,Beauty & Personal Care | 1k-5k Employees | Conglomerate | 35 years old | Delhi/NCR +100 more,--,Promotions / Appraisal
+643,Panasonic,4.1,Consumer Electronics & Appliances | 1k-5k Employees | Forbes Global 2000 | 106 years old | Kadoma +109 more,"Work Life Balance, Company Culture, Job Security",--
+644,Redcliffe Labs,4.5,Healthcare | 1k-5k Employees | 6 years old | Noida +74 more,"Skill Development / Learning, Salary & Benefits, Work Satisfaction",--
+645,Supreme Industries,4.2,Petrochemicals | 5k-10k Employees | Public | 82 years old | Mumbai +89 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+646,Asahi India Glass,3.9,Auto Components | 1k-5k Employees | Public | 40 years old | Gurgaon/Gurugram +63 more,"Job Security, Skill Development / Learning",Promotions / Appraisal
+647,Jindal X,3.6,BPO | 1k-5k Employees | Public | 26 years old | New Delhi +21 more,--,"Job Security, Promotions / Appraisal"
+648,Ashoka Buildcon,4.1,Engineering & Construction | 1k-5k Employees | Public | 48 years old | Nasik/Nashik +130 more,"Skill Development / Learning, Company Culture, Work Satisfaction",--
+649,TCS iON,3.9,IT Services & Consulting | 1k-5k Employees | 13 years old | Mumbai +98 more,"Job Security, Work Life Balance, Company Culture",--
+650,JioMart,3.9,51-200 Employees | Kolkata +261 more,"Salary & Benefits, Skill Development / Learning","Promotions / Appraisal, Job Security"
+651,ITD Cementation India,4.3,Engineering & Construction | 1k-5k Employees | Public | 93 years old | Mumbai +66 more,"Job Security, Company Culture, Salary & Benefits",--
+652,Sysnet Global Technologies,3.7,IT Services & Consulting | 1k-5k Employees | 25 years old | Delhi/NCR +110 more,--,"Promotions / Appraisal, Salary & Benefits, Work Life Balance"
+653,NeoSOFT,3.8,IT Services & Consulting | 1k-5k Employees | 28 years old | Mumbai +19 more,Skill Development / Learning,--
+654,Annapurna Finance,4.2,NBFC | 5k-10k Employees | 15 years old | Bhubaneswar +270 more,"Salary & Benefits, Job Security, Promotions / Appraisal",--
+655,Chandigarh University,4.5,Education & Training | 1k-5k Employees | 12 years old | Mohali +40 more,"Job Security, Skill Development / Learning, Company Culture",--
+656,Shadowfax Technologies,3.6,Logistics | 1k-5k Employees | Public | 9 years old | Bangalore +152 more,--,"Promotions / Appraisal, Job Security, Company Culture"
+657,Godrej Group,4.0,Chemicals | 10k-50k Employees | Public | 127 years old | Mumbai +112 more,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal
+658,Granules India,3.9,Pharma | 1k-5k Employees | Public | 40 years old | Hyderabad/Secunderabad +15 more,Job Security,--
+659,Aye Finance,4.2,NBFC | 5k-10k Employees | Startup | 11 years old | Delhi +231 more,"Job Security, Salary & Benefits, Work Life Balance",--
+660,Ocwen Financial Solutions,4.1,Financial Services | 1k-5k Employees | 36 years old | West Palm Beach +8 more,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal
+661,Aptara,3.4,Printing & Publishing | 1k-5k Employees | 36 years old | Falls Church +11 more,--,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+662,Compass Group Support Services,4.1,Hospitality | 10k-50k Employees | Public | 83 years old | Chertsey +66 more,"Company Culture, Work Life Balance, Skill Development / Learning",--
+663,Sanofi,4.4,Pharma | 1k-5k Employees | Public | 20 years old | Paris +71 more,"Work Life Balance, Company Culture, Skill Development / Learning",--
+664,GMR Group,4.1,Engineering & Construction | 10k-50k Employees | Public | 46 years old | Delhi/NCR +55 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+665,Adani Ports and SEZ,3.9,Ports & Shipping | 1k-5k Employees | Public | 26 years old | Ahmedabad +69 more,--,Promotions / Appraisal
+666,Heritage Foods,4.2,Food Processing | 1k-5k Employees | Public | 32 years old | Hyderabad/Secunderabad +90 more,"Job Security, Salary & Benefits, Company Culture",--
+667,MiraMed Ajuba,4.0,BPO | 1k-5k Employees | 23 years old | Chennai +14 more,"Job Security, Company Culture, Skill Development / Learning",--
+668,Canara Bank,3.4,Banking | 50k-1 Lakh Employees | Public | 118 years old | Bangalore/Bengaluru +163 more,Job Security,"Work Satisfaction, Work Life Balance, Company Culture"
+669,GE,4.3,Defence & Aerospace | 10k-50k Employees | Forbes Global 2000 | 132 years old | Boston +61 more,"Company Culture, Work Life Balance, Skill Development / Learning",--
+670,Bharat Forge,3.9,Iron & Steel | 1k-5k Employees | Public | 63 years old | Pune +18 more,--,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+671,HighRadius,3.0,FinTech | 1k-5k Employees | 18 years old | Houston +12 more,--,"Job Security, Work Satisfaction, Work Life Balance"
+672,Caterpillar Inc,4.2,Industrial Machinery | 5k-10k Employees | Forbes Global 2000 | 99 years old | Deerfield +34 more,"Company Culture, Work Life Balance, Skill Development / Learning",--
+673,Spicejet,3.5,Aviation | 5k-10k Employees | Public | 20 years old | Gurgaon/Gurugram +58 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+674,Unisys,3.8,IT Services & Consulting | 1k-5k Employees | 38 years old | Blue Bell +13 more,--,Promotions / Appraisal
+675,EPAM Systems,3.8,IT Services & Consulting | 5k-10k Employees | 31 years old | Newtown +18 more,"Skill Development / Learning, Salary & Benefits, Work Life Balance","Job Security, Promotions / Appraisal"
+676,Bharat FIH,4.0,Electronics Manufacturing | 10k-50k Employees | Chennai +30 more,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal
+677,Broadridge Financial Solutions,4.0,FinTech | 5k-10k Employees | Forbes Global 2000 | 17 years old | New York City +7 more,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+678,NSE.IT,3.6,IT Services & Consulting | 1k-5k Employees | Public | 25 years old | Mumbai +137 more,--,"Promotions / Appraisal, Salary & Benefits, Job Security"
+679,GE Vernova,4.2,Noida +69 more,"Work Life Balance, Company Culture, Skill Development / Learning",--
+680,Evalueserve,3.5,IT Services & Consulting | 1k-5k Employees | 24 years old | Schaffhausen +11 more,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+681,Edelweiss,3.8,Financial Services | 1k-5k Employees | Public | 7 years old | Mumbai +109 more,Work Life Balance,Promotions / Appraisal
+682,AB InBev India,3.5,Beverage | 1k-5k Employees | Public | 36 years old | Leuven +64 more,--,"Promotions / Appraisal, Job Security, Work Satisfaction"
+683,Vfs Global Services,3.7,BPO | 1k-5k Employees | 23 years old | Mumbai +26 more,--,"Promotions / Appraisal, Salary & Benefits, Work Life Balance"
+684,Sharekhan,4.0,Financial Services | 1k-5k Employees | Public | 24 years old | Mumbai +106 more,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+685,Xiaomi,3.9,Consumer Electronics & Appliances | 1k-5k Employees | Forbes Global 2000 | 14 years old | Haidian District +176 more,--,Promotions / Appraisal
+686,Spinny,3.9,Financial Services | 1k-5k Employees | Indian Unicorn | 9 years old | Gurgaon +42 more,--,"Promotions / Appraisal, Job Security"
+687,Lumax Industries,4.0,Auto Components | 1k-5k Employees | Public | 79 years old | Pune +30 more,"Job Security, Skill Development / Learning",--
+688,Steel Strips Wheels,3.8,Auto Components | 1k-5k Employees | Public | 33 years old | Chandigarh +35 more,--,"Company Culture, Promotions / Appraisal, Work Life Balance"
+689,Amity University,3.6,Education & Training | 1k-5k Employees | 19 years old | Noida +77 more,--,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+690,Bisleri,4.2,Beverage | 1k-5k Employees | 59 years old | Mumbai +135 more,"Job Security, Work Life Balance, Salary & Benefits",--
+691,IFB,3.8,Consumer Electronics & Appliances | 201-500 Employees | Public | 50 years old | Kolkata +137 more,--,"Promotions / Appraisal, Work Satisfaction, Company Culture"
+692,Unichem Laboratories,4.0,Pharma | 1k-5k Employees | Public | 80 years old | Mumbai +65 more,Job Security,--
+693,Aircel,4.5,Telecom | 5k-10k Employees | 25 years old | Gurgaon/Gurugram +115 more,"Company Culture, Work Satisfaction, Skill Development / Learning",--
+694,Pine Labs,3.8,FinTech | 1k-5k Employees | Indian Unicorn | 26 years old | Noida +77 more,Salary & Benefits,"Promotions / Appraisal, Job Security"
+695,Indoco Remedies,3.7,Pharma | 5k-10k Employees | Public | 77 years old | Mumbai +66 more,--,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+696,Cinépolis,4.0,Media & Entertainment | 1k-5k Employees | 53 years old | Morelia +52 more,"Company Culture, Job Security, Skill Development / Learning",--
+697,Synchrony,4.4,Financial Services | 1k-5k Employees | Forbes Global 2000 | 92 years old | Stamford +9 more,"Company Culture, Job Security, Work Life Balance",--
+698,NEC,4.6,IT Services & Consulting | 5k-10k Employees | Forbes Global 2000 | 125 years old | Noida +40 more,"Work Life Balance, Job Security, Company Culture",--
+699,Tanishq,4.4,Jewellery | 5k-10k Employees | 30 years old | Bangalore/Bengaluru +189 more,"Skill Development / Learning, Company Culture, Work Satisfaction",--
+700,CorroHealth,3.4,1k-5k Employees | Hyderabad / Secunderabad +17 more,--,"Work Life Balance, Promotions / Appraisal, Work Satisfaction"
+701,Newgen Software Technologies,3.6,IT Services & Consulting | 1k-5k Employees | Public | 32 years old | New Delhi +22 more,Job Security,"Work Satisfaction, Skill Development / Learning, Promotions / Appraisal"
+702,Iffco Tokio General Insurance Co.,4.1,Insurance | 5k-10k Employees | 24 years old | Gurgaon/Gurugram +234 more,"Job Security, Work Life Balance, Company Culture",--
+703,Sagility,3.9,BPO | 10k-50k Employees | Bangalore Rural +20 more,"Job Security, Company Culture, Work Life Balance","Salary & Benefits, Promotions / Appraisal"
+704,Punjab National Bank,4.1,Banking | 1 Lakh+ Employees | Fortune India 500 | 130 years old | Delhi/NCR +179 more,"Job Security, Salary & Benefits, Promotions / Appraisal",--
+705,Iksula,3.7,IT Services & Consulting | 501-1k Employees | 17 years old | Mumbai +116 more,--,"Promotions / Appraisal, Job Security, Salary & Benefits"
+706,Physicswallah,3.9,EdTech | 10k-50k Employees | Indian Unicorn | 5 years old | Noida +64 more,Skill Development / Learning,"Promotions / Appraisal, Job Security"
+707,Jakson Group,4.5,Power | 5k-10k Employees | 77 years old | Noida +81 more,"Company Culture, Skill Development / Learning, Work Life Balance",--
+708,Northern Trust Operating Services,4.1,Financial Services | 5k-10k Employees | Forbes Global 2000 | 135 years old | Chicago +16 more,"Job Security, Company Culture, Work Life Balance",--
+709,Fino Payments Bank,4.0,Banking | 1k-5k Employees | 18 years old | Mumbai +215 more,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+710,SYSKA LED Lights,2.9,Consumer Electronics & Appliances | 1k-5k Employees (Global) | Startup | 12 years old | Pune +152 more,--,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+711,Saipem,4.0,Engineering & Construction | 1k-5k Employees | Forbes Global 2000 | 67 years old | San Donato Milanese +37 more,"Job Security, Work Life Balance, Work Satisfaction",Promotions / Appraisal
+712,LivSpace,3.5,Architecture & Interior Design | 1k-5k Employees | Indian Unicorn | 9 years old | Bangalore +37 more,--,"Promotions / Appraisal, Job Security, Work Satisfaction"
+713,FDC,4.0,Pharma | 5k-10k Employees | Public | 84 years old | Mumbai +98 more,--,Promotions / Appraisal
+714,ECIL,4.1,Electronics Manufacturing | 1k-5k Employees | Public | 57 years old | Hyderabad/Secunderabad +41 more,"Work Life Balance, Work Satisfaction, Company Culture",Promotions / Appraisal
+715,Health Care Global Enterprises,4.2,Healthcare | 5k-10k Employees | Public | 35 years old | Bangalore/Bengaluru +41 more,"Skill Development / Learning, Work Life Balance, Job Security",--
+716,Valeo,4.1,Auto Components | 5k-10k Employees | Forbes Global 2000 | 101 years old | Paris +19 more,"Job Security, Salary & Benefits, Work Life Balance",--
+717,Tietoevry,4.3,IT Services & Consulting | 1k-5k Employees | Public | 5 years old | Helsinki +9 more,"Work Life Balance, Company Culture, Job Security",--
+718,BVG India,4.1,Facility Management Services | 50k-1 Lakh Employees | 27 years old | Pune +91 more,Work Life Balance,Promotions / Appraisal
+719,Devyani International,3.9,Hospitality | 10k-50k Employees | Public | 33 years old | Gurgaon/Gurugram +90 more,--,"Promotions / Appraisal, Salary & Benefits"
+720,Aditya Birla Health Insurance Co,3.9,Insurance | 1k-5k Employees | 9 years old | Mumbai +184 more,"Job Security, Skill Development / Learning",Promotions / Appraisal
+721,Best Sellers,4.2,Fashion & Textile | 501-1k Employees | 49 years old | Brande +77 more,"Skill Development / Learning, Company Culture, Job Security",--
+722,VMware Software,4.4,Software Product | 5k-10k Employees | Forbes Global 2000 | 26 years old | Palo Alto +17 more,"Company Culture, Salary & Benefits, Work Life Balance",--
+723,Suryoday Small Finance Bank,4.1,Banking | 5k-10k Employees | 16 years old | Mumbai +153 more,"Job Security, Skill Development / Learning, Salary & Benefits",--
+724,Goldman Sachs,3.6,Investment Banking / Venture Capital / Private Equity | 5k-10k Employees | 21 years old | New York +18 more,--,"Work Life Balance, Job Security, Work Satisfaction"
+725,Paytm Payments Bank,4.0,FinTech | 1k-5k Employees | Public | 8 years old | Noida +107 more,--,Promotions / Appraisal
+726,SKF,4.0,Auto Components | 1k-5k Employees | Public | 101 years old | Gothenburg +64 more,"Work Life Balance, Company Culture, Skill Development / Learning","Promotions / Appraisal, Job Security"
+727,DISH TV,3.7,Broadcasting | 201-500 Employees | Public | 21 years old | Noida +136 more,--,"Promotions / Appraisal, Job Security"
+728,AGS Transact Technologies,3.5,FinTech | 1k-5k Employees | 22 years old | Mumbai +101 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+729,Burger King,4.0,Hospitality | 5k-10k Employees | 10 years old | Miami +91 more,Skill Development / Learning,--
+730,Fidelity National Financial,3.8,Financial Services | 1k-5k Employees | Forbes Global 2000 | 177 years old | Bangalore Rural +10 more,Job Security,"Promotions / Appraisal, Work Satisfaction"
+731,Oil And Natural Gas Corporation,4.3,Oil & Gas | 10k-50k Employees | Public | 68 years old | Delhi/NCR +63 more,"Job Security, Work Life Balance, Work Satisfaction",--
+732,Foxconn,4.1,Electronics Manufacturing | 10k-50k Employees | 50 years old | Taipei +38 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+733,Wheelseye Technology,3.7,Internet | 1k-5k Employees | Startup | 7 years old | Gurgaon +176 more,--,"Job Security, Promotions / Appraisal, Salary & Benefits"
+734,DENSO,4.2,Auto Components | 1k-5k Employees | Public | 77 years old | Kariya +35 more,"Job Security, Company Culture, Salary & Benefits",--
+735,SAI Life Sciences,3.9,Pharma | 1k-5k Employees | Public | 25 years old | Hyderabad +16 more,"Skill Development / Learning, Salary & Benefits",Promotions / Appraisal
+736,Xyz Company,3.8,Financial Services | 51-200 Employees (Global) | Mumbai +89 more,"Company Culture, Job Security, Skill Development / Learning",--
+737,Clover Infotech,3.7,IT Services & Consulting | 1k-5k Employees | 30 years old | Mumbai +16 more,--,"Promotions / Appraisal, Company Culture, Salary & Benefits"
+738,ManpowerGroup,4.0,Recruitment | 50k-1 Lakh Employees | Forbes Global 2000 | 29 years old | New Delhi +119 more,Work Life Balance,"Promotions / Appraisal, Job Security"
+739,Sansera Engineering,4.2,Auto Components | 1k-5k Employees | Public | 38 years old | Bangalore/Bengaluru +21 more,"Skill Development / Learning, Company Culture, Job Security",--
+740,Apco Infratech,3.9,Engineering & Construction | 1k-5k Employees | 32 years old | Lucknow +70 more,--,Company Culture
+741,Sheenlac Paints,4.6,Chemicals | 501-1k Employees | Public | 62 years old | Chennai +135 more,"Salary & Benefits, Company Culture, Work Life Balance",--
+742,Shriram Pistons & Rings,4.1,Auto Components | 1k-5k Employees | Public | 61 years old | Delhi/NCR +54 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+743,Tata 1mg,3.7,Internet | 1k-5k Employees | 9 years old | Gurgaon +51 more,--,"Promotions / Appraisal, Job Security, Work Satisfaction"
+744,QualityKiosk Technologies,3.7,IT Services & Consulting | 1k-5k Employees | 24 years old | Mumbai +16 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+745,Schindler,4.0,Industrial Machinery | 5k-10k Employees | Pune +61 more,"Skill Development / Learning, Salary & Benefits",Promotions / Appraisal
+746,Atul,4.0,Chemicals | 1k-5k Employees | Public | 77 years old | Valsad +53 more,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+747,Fresenius Kabi,4.2,Pharma | 1k-5k Employees | 112 years old | Pune +59 more,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+748,Gujarat Fluorochemicals,4.2,Chemicals | 1k-5k Employees | Fortune India 500 | 37 years old | Noida +24 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+749,Nexa,4.1,Automobile | 1k-5k Employees | 9 years old | Delhi/NCR +185 more,Skill Development / Learning,"Job Security, Promotions / Appraisal"
+750,ANZ Banking Group,4.2,Financial Services | 5k-10k Employees | Forbes Global 2000 | 17 years old | Melbourne +15 more,"Job Security, Company Culture, Work Life Balance",--
+751,The Jaypee Group,3.9,Engineering & Construction | 10k-50k Employees | Public | 45 years old | Noida +93 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+752,Vestas,4.3,Power | 1k-5k Employees | Forbes Global 2000 | 79 years old | Aarhus +43 more,"Company Culture, Work Life Balance, Skill Development / Learning",--
+753,Altisource,3.6,Real Estate | 1k-5k Employees | 17 years old | Bangalore/Bengaluru +9 more,--,"Job Security, Promotions / Appraisal, Skill Development / Learning"
+754,Amneal Pharmaceuticals,4.3,Pharma | 5k-10k Employees | 22 years old | Bridgewater +24 more,"Work Life Balance, Job Security, Company Culture",--
+755,FOCUS EDUMATICS,3.4,EdTech | 5k-10k Employees | 25 years old | Bangalore/Bengaluru +17 more,--,"Promotions / Appraisal, Job Security, Salary & Benefits"
+756,Amara Raja Energy & Mobility,4.3,Auto Components | 5k-10k Employees | Fortune India 500 | 39 years old | Tirupati +64 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+757,Vibgyor High School,3.8,Education & Training | 1k-5k Employees | 20 years old | Mumbai +27 more,--,"Promotions / Appraisal, Job Security"
+758,Luminous Power Technologies,4.2,Consumer Electronics & Appliances | 1k-5k Employees | 36 years old | Gurgaon/Gurugram +110 more,"Company Culture, Work Life Balance, Job Security",--
+759,Eureka Outsourcing Solutions,3.1,BPO | 1k-5k Employees | 22 years old | Thane +18 more,--,"Salary & Benefits, Promotions / Appraisal, Work Satisfaction"
+760,Eureka Outsourcing Solutions,3.1,BPO | 1k-5k Employees | 22 years old | Thane +18 more,--,"Salary & Benefits, Promotions / Appraisal, Work Satisfaction"
+761,Indegene,3.7,Analytics & KPO | 1k-5k Employees | 26 years old | Princeton +21 more,--,"Promotions / Appraisal, Work Satisfaction"
+762,iSON Xperiences,3.6,BPO | 5k-10k Employees | 13 years old | Lagos +33 more,--,"Promotions / Appraisal, Salary & Benefits, Job Security"
+763,K12 Techno Services,3.0,EdTech | 1k-5k Employees | 14 years old | Bangalore/Bengaluru +32 more,--,"Job Security, Promotions / Appraisal, Company Culture"
+764,Tata AutoComp Systems,3.9,Auto Components | 1k-5k Employees | Public | 26 years old | Pune +31 more,"Job Security, Skill Development / Learning",Promotions / Appraisal
+765,Videocon d2h,3.9,Internet | 501-1k Employees | Public | 15 years old | Mumbai +129 more,"Skill Development / Learning, Company Culture","Job Security, Promotions / Appraisal, Salary & Benefits"
+766,Hitachi Astemo,4.1,Auto Components | 1k-5k Employees | Neemrana +33 more,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+767,CreditAccess Grameen,4.3,NBFC | 10k-50k Employees | Public | 25 years old | Bangalore/Bengaluru +246 more,"Job Security, Company Culture, Skill Development / Learning",--
+768,Wistron,3.9,Electronics Manufacturing | 1k-5k Employees | Forbes Global 2000 | 23 years old | Taipei +18 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+769,Medhaj Techno Concept,4.3,Other | 1k-5k Employees | 17 years old | Lucknow +140 more,"Company Culture, Skill Development / Learning, Work Life Balance",--
+770,GAIL,4.5,Oil & Gas | 1k-5k Employees | Fortune India 500 | 40 years old | Delhi/NCR +91 more,"Work Life Balance, Company Culture, Skill Development / Learning",--
+771,TELUS International Philippines,3.8,IT Services & Consulting | 1k-5k Employees | Startup | 19 years old | Pasig City +15 more,Work Life Balance,Promotions / Appraisal
+772,Infogain,3.7,IT Services & Consulting | 1k-5k Employees | 34 years old | Los Gatos +15 more,--,"Promotions / Appraisal, Salary & Benefits"
+773,Tenneco,3.8,Auto Components | 1k-5k Employees | Forbes Global 2000 | 84 years old | Lake Forest +35 more,--,"Promotions / Appraisal, Salary & Benefits, Job Security"
+774,Johnson Lifts,4.2,Industrial Machinery | 5k-10k Employees | 43 years old | Chennai +67 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+775,IndiaFirst Life Insurance,4.2,Insurance | 1k-5k Employees | 15 years old | Mumbai +176 more,"Salary & Benefits, Company Culture, Work Life Balance",--
+776,Kantar,3.7,Analytics & KPO | 5k-10k Employees | 16 years old | London +34 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+777,Consolidated Contractors,4.5,Engineering & Construction | 1k-5k Employees | Public | 72 years old | Marousi +50 more,"Work Satisfaction, Company Culture, Skill Development / Learning",--
+778,Continental Automotive Components,4.2,Auto Components | 5k-10k Employees | 153 years old | Lower Saxony +19 more,"Job Security, Company Culture, Work Life Balance",--
+779,Patanjali Foods,4.1,FMCG | 5k-10k Employees | Public | 38 years old | Mumbai +146 more,"Work Life Balance, Job Security",Promotions / Appraisal
+780,Wind World,3.9,Power | 5k-10k Employees | 30 years old | Mumbai +62 more,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+781,Jio Platforms,3.7,IT Services & Consulting | 5k-10k Employees | Navi Mumbai +67 more,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+782,Eaton Corporation,4.0,Power | 5k-10k Employees | Public | 113 years old | Cleveland +18 more,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+783,PharmEasy,3.7,Internet | 1k-5k Employees | Indian Unicorn | 9 years old | Mumbai +56 more,--,"Job Security, Promotions / Appraisal"
+784,Infinx,3.6,Software Product | 1k-5k Employees | 12 years old | Mumbai +27 more,--,"Promotions / Appraisal, Salary & Benefits"
+785,Piaggio,3.7,Automobile | 1k-5k Employees | 140 years old | Pontedera +68 more,--,"Promotions / Appraisal, Job Security, Salary & Benefits"
+786,Bajaj Motors,4.0,Auto Components | 501-1k Employees | 38 years old | Gurgaon +66 more,Skill Development / Learning,Promotions / Appraisal
+787,AIIMS,4.2,Healthcare | 10k-50k Employees | 68 years old | Delhi/NCR +50 more,"Skill Development / Learning, Work Satisfaction, Work Life Balance",Promotions / Appraisal
+788,Bharat Sanchar Nigam,4.0,Telecom | 50k-1 Lakh Employees | Central | 24 years old | Delhi/NCR +208 more,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits"
+789,CSB Bank,3.4,Banking | 1k-5k Employees | 104 years old | Thrissur/Trichur +152 more,--,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+790,Mahindra CIE Automotive,3.8,Auto Components | 1k-5k Employees | Public | 25 years old | Mumbai +37 more,--,"Promotions / Appraisal, Job Security, Company Culture"
+791,Intertek,3.8,Other | 1k-5k Employees | 27 years old | London +81 more,--,"Promotions / Appraisal, Salary & Benefits"
+792,Godrej Consumer Products,4.3,FMCG | 1k-5k Employees | Public | 23 years old | Mumbai +109 more,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal
+793,JW Marriott,4.1,Hospitality | 1k-5k Employees | 97 years old | Bethesda +38 more,"Job Security, Skill Development / Learning, Company Culture",--
+794,Godrej Properties,3.7,Real Estate | 1k-5k Employees | Public | 34 years old | Mumbai +27 more,Job Security,"Promotions / Appraisal, Work Satisfaction, Work Life Balance"
+795,PNB Housing Finance,3.9,Financial Services | 1k-5k Employees | Public | 36 years old | Delhi/NCR +113 more,Job Security,Promotions / Appraisal
+796,Gannon Dunkerley & Co.,3.9,Engineering & Construction | 1k-5k Employees | 100 years old | Mumbai +66 more,--,"Salary & Benefits, Promotions / Appraisal"
+797,TE Connectivity,4.1,Electronics Manufacturing | 1k-5k Employees | Forbes Global 2000 | 83 years old | Schaffhausen +13 more,"Company Culture, Work Life Balance, Job Security",--
+798,Zf Rane Automotive,4.1,Auto Components | 1k-5k Employees | Chennai +45 more,"Skill Development / Learning, Work Satisfaction",Promotions / Appraisal
+799,TUV SUD,4.0,Other | 1k-5k Employees | 158 years old | Munich +93 more,--,Promotions / Appraisal
+800,Jaquar,4.1,Building Material | 10k-50k Employees | 64 years old | Gurgaon +83 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+801,Automotive Manufacturers,4.2,Automobile | 10k-50k Employees | 76 years old | Mumbai +119 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+802,Mondelez International,4.4,Food Processing | 1k-5k Employees | Forbes Global 2000 | 12 years old | Greater Chicago Area +135 more,"Salary & Benefits, Company Culture, Job Security",--
+803,Sahara India Pariwar,3.8,Broadcasting | 5k-10k Employees | Conglomerate | 46 years old | Lucknow +220 more,--,"Promotions / Appraisal, Salary & Benefits"
+804,Spencer's Retail,3.9,Retail | 1k-5k Employees | Public | 161 years old | Kolkata +56 more,Job Security,Promotions / Appraisal
+805,Karma Ayurveda,4.5,Healthcare | 51-200 Employees | New Delhi +3 more,"Work Life Balance, Work Satisfaction, Promotions / Appraisal",--
+806,Slk Software Services,3.6,IT Services & Consulting | 1k-5k Employees | 24 years old | Bangalore/Bengaluru +10 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+807,JSW Cement,4.1,Building Material | 1k-5k Employees | Conglomerate | 15 years old | Mumbai +109 more,"Job Security, Salary & Benefits, Company Culture",--
+808,Adobe,4.2,Software Product | 5k-10k Employees | Public | 27 years old | San Jose +14 more,"Company Culture, Work Life Balance, Job Security",--
+809,Apexon,3.4,IT Services & Consulting | 1k-5k Employees | 28 years old | Santa Clara +15 more,--,"Promotions / Appraisal, Job Security, Salary & Benefits"
+810,IIFL SAMASTA,4.1,NBFC | 10k-50k Employees | Bangalore / Bengaluru +263 more,"Skill Development / Learning, Job Security",--
+811,Punj Lloyd,4.3,Engineering & Construction | 5k-10k Employees | Public | 42 years old | Gurgaon/Gurugram +70 more,"Work Life Balance, Company Culture, Work Satisfaction",--
+812,Worley,4.1,Engineering & Construction | 5k-10k Employees | 53 years old | North Sydney +42 more,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+813,Capri Global Capital,3.7,NBFC | 1k-5k Employees | Public | 27 years old | Mumbai +214 more,--,"Job Security, Promotions / Appraisal, Work Satisfaction"
+814,Dhoot Transmission,3.7,Power | 201-500 Employees | 26 years old | Mumbai +29 more,--,"Promotions / Appraisal, Salary & Benefits, Job Security"
+815,Petrofac,4.4,Engineering & Construction | 1k-5k Employees | 43 years old | Jermyn Street +37 more,"Salary & Benefits, Company Culture, Work Satisfaction",--
+816,Morningstar,3.9,Financial Services | 1k-5k Employees | 40 years old | Chicago +16 more,"Company Culture, Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+817,Siemens Gamesa Renewable Energy,4.1,Power | 1k-5k Employees | 48 years old | Chennai +56 more,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal
+818,Hinduja Leyland Finance,4.1,NBFC | 1k-5k Employees | 18 years old | Chennai +226 more,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+819,R Systems International,3.4,IT Services & Consulting | 1k-5k Employees | Public | 31 years old | El Dorado Hills +15 more,--,"Job Security, Promotions / Appraisal, Skill Development / Learning"
+820,Sonata Software,3.7,IT Services & Consulting | 1k-5k Employees | Public | 38 years old | Bangalore/Bengaluru +12 more,--,"Promotions / Appraisal, Salary & Benefits"
+821,NSH,3.7,Engineering & Construction | 501-1k Employees | 46 years old | Al Jubail +43 more,Job Security,"Company Culture, Promotions / Appraisal, Salary & Benefits"
+822,Tikona Infinet,3.7,Telecom | 1k-5k Employees | 16 years old | Mumbai +46 more,--,"Promotions / Appraisal, Salary & Benefits, Job Security"
+823,Hatsun Agro Product,4.0,Food Processing | 5k-10k Employees | Public | 54 years old | Chennai +100 more,Skill Development / Learning,--
+824,Serco,4.4,Analytics & KPO | 5k-10k Employees | 36 years old | Hook +39 more,"Work Life Balance, Work Satisfaction, Company Culture",--
+825,Coca-Cola Company,4.3,Beverage | 5k-10k Employees | Forbes Global 2000 | 138 years old | Atlanta +162 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+826,Nielsen,3.8,Analytics & KPO | 1k-5k Employees | 101 years old | New York City +72 more,"Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+827,Viraj Profiles,3.8,Iron & Steel | 1k-5k Employees | 24 years old | Mumbai +21 more,--,"Promotions / Appraisal, Company Culture, Salary & Benefits"
+828,Podar International School,4.3,Education & Training | 5k-10k Employees | 97 years old | Mumbai +105 more,"Skill Development / Learning, Job Security, Company Culture",--
+829,Thyrocare Technologies,3.5,Healthcare | 1k-5k Employees | Public | 28 years old | Mumbai +61 more,--,"Promotions / Appraisal, Job Security, Salary & Benefits"
+830,Shriram Life Insurance,3.8,Insurance | 1k-5k Employees | Conglomerate | 19 years old | Hyderabad/Secunderabad +216 more,Work Life Balance,Promotions / Appraisal
+831,Urban Company,3.6,Internet | 1k-5k Employees | Indian Unicorn | 9 years old | Gurgaon +51 more,--,"Job Security, Promotions / Appraisal, Work Life Balance"
+832,Decathlon,4.0,Retail | 1k-5k Employees | 48 years old | Lille +63 more,"Skill Development / Learning, Company Culture, Job Security","Work Life Balance, Promotions / Appraisal"
+833,Strides Pharma,3.9,Pharma | 201-500 Employees | Public | 34 years old | Bangalore/Bengaluru +30 more,Skill Development / Learning,"Job Security, Promotions / Appraisal"
+834,HPCL-Mittal Energy Limited,4.3,Petrochemicals | 1k-5k Employees | 17 years old | Noida +26 more,"Job Security, Salary & Benefits, Company Culture",--
+835,iQor Global Services,3.5,BPO | 1k-5k Employees | 26 years old | Saint Petersburg +50 more,--,"Promotions / Appraisal, Job Security, Skill Development / Learning"
+836,Episource,3.8,IT Services & Consulting | 1k-5k Employees | 18 years old | Gardena +13 more,"Job Security, Company Culture",Promotions / Appraisal
+837,Arvind Lifestyle Brands,4.2,Retail | 201-500 Employees | Bangalore / Bengaluru +85 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+838,OpenText Technologies,3.9,Software Product | 1k-5k Employees | 33 years old | Waterloo +9 more,"Work Life Balance, Company Culture",Promotions / Appraisal
+839,Atos Global IT Solutions And Services,4.0,IT Services & Consulting | 5k-10k Employees | 24 years old | Navi Mumbai +16 more,"Work Life Balance, Job Security, Skill Development / Learning",--
+840,JK Lakshmi Cement,3.9,Building Material | 1k-5k Employees | Public | 42 years old | Delhi/NCR +113 more,--,--
+841,Mando Automotive,3.9,Auto Components | 1k-5k Employees | Fortune India 500 | 18 years old | Kanchipuram +18 more,"Skill Development / Learning, Job Security","Promotions / Appraisal, Salary & Benefits"
+842,Airtel Payments Bank,4.2,FinTech | 501-1k Employees | Public | 8 years old | Delhi/NCR +225 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+843,RBL FinServe,4.1,Financial Services | 5k-10k Employees | 19 years old | Mumbai +276 more,"Salary & Benefits, Skill Development / Learning, Work Satisfaction",--
+844,Kirloskar Oil Engines,4.2,Industrial Machinery | 1k-5k Employees | Public | 78 years old | Pune +83 more,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+845,FastInfo,4.3,EdTech | 501-1k Employees | Startup | 5 years old | Kolkata +7 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+846,PNC Infratech,4.0,Engineering & Construction | 5k-10k Employees | Public | 25 years old | Delhi/NCR +74 more,Job Security,Promotions / Appraisal
+847,Amazon Logistics,4.3,Logistics | 51-200 Employees | Hyderabad / Secunderabad +115 more,"Company Culture, Skill Development / Learning, Salary & Benefits",--
+848,Sunknowledge Services,4.0,BPO | 1k-5k Employees | 18 years old | New York +11 more,"Job Security, Skill Development / Learning, Work Satisfaction",--
+849,Bajaj Housing Finance,3.9,NBFC | 1k-5k Employees | 16 years old | Pune +120 more,--,"Work Life Balance, Company Culture, Work Satisfaction"
+850,MDIndia Health Insurance TPA,3.8,Insurance | 5k-10k Employees | 24 years old | Pune +76 more,--,"Promotions / Appraisal, Salary & Benefits"
+851,Sri Chaitanya Educational Institutions,3.8,Education & Training | 50k-1 Lakh Employees | 38 years old | Hyderabad/Secunderabad +83 more,--,"Salary & Benefits, Promotions / Appraisal, Work Life Balance"
+852,Kendriya Vidyalaya Sangathan,4.4,Education & Training | 10k-50k Employees | Public | 61 years old | Delhi/NCR +208 more,"Skill Development / Learning, Company Culture, Work Life Balance","Job Security, Promotions / Appraisal"
+853,Shubham Housing Development Finance,4.0,NBFC | 1k-5k Employees | 14 years old | Gurgaon +111 more,"Job Security, Skill Development / Learning, Company Culture",--
+854,iMerit,3.8,Software Product | 1k-5k Employees | Startup | 12 years old | Kolkata +10 more,Work Life Balance,"Promotions / Appraisal, Salary & Benefits"
+855,Onward Technologies Inc,3.2,Software Product | 1k-5k Employees | Public | 33 years old | Mumbai +61 more,--,"Job Security, Promotions / Appraisal, Skill Development / Learning"
+856,Altimetrik,3.9,IT Services & Consulting | 1k-5k Employees | 12 years old | Southfield +10 more,"Work Life Balance, Salary & Benefits, Company Culture",--
+857,V5 Global Services,3.9,Recruitment | 10k-50k Employees | 19 years old | Delhi/NCR +154 more,--,Promotions / Appraisal
+858,Ion Exchange India,3.9,Waste Management | 1k-5k Employees | Public | 60 years old | Mumbai +86 more,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+859,Parexel International,4.0,Healthcare | 1k-5k Employees | 42 years old | Massachusetts +12 more,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+860,Jubilant Pharmova,4.0,Pharma | 1k-5k Employees | Public | 46 years old | Noida +53 more,Salary & Benefits,--
+861,BGR Energy Systems,3.9,Engineering & Construction | 1k-5k Employees | Public | 39 years old | Chennai +49 more,Work Life Balance,"Promotions / Appraisal, Salary & Benefits"
+862,Aarvee Associates,4.0,Engineering & Construction | 1k-5k Employees | 35 years old | Hyderabad/Secunderabad +126 more,--,Promotions / Appraisal
+863,Barbeque Nation,4.0,Hospitality | 5k-10k Employees | 18 years old | Bangalore/Bengaluru +69 more,"Company Culture, Job Security, Skill Development / Learning",--
+864,Volkswagen,4.2,Automobile | 1k-5k Employees | Forbes Global 2000 | 23 years old | Mumbai +95 more,"Work Life Balance, Company Culture, Skill Development / Learning",--
+865,Rockman Industries,3.9,Auto Components | 1k-5k Employees | 64 years old | Delhi/NCR +30 more,Skill Development / Learning,--
+866,Jacobs Engineering Group,4.1,Engineering & Construction | 1k-5k Employees | Forbes Global 2000 | 77 years old | Dallas +33 more,"Work Life Balance, Company Culture, Job Security",--
+867,XcelServ Solutions,4.6,IT Services & Consulting | 501-1k Employees | 13 years old | Las Vegas +35 more,"Work Life Balance, Job Security, Salary & Benefits",--
+868,NTT DATA Business Solutions,3.8,IT Services & Consulting | 1k-5k Employees | Bangalore / Bengaluru +24 more,--,Promotions / Appraisal
+869,Evision Technoserve,4.7,Recruitment | 51-200 Employees | 12 years old | Delhi/NCR +63 more,"Company Culture, Work Life Balance, Work Satisfaction",--
+870,The Ramco Cements,4.3,Building Material | 1k-5k Employees | Public | 63 years old | Chennai +91 more,"Job Security, Company Culture, Work Life Balance",--
+871,DCM Shriram,4.2,Chemicals | 5k-10k Employees | Public | 34 years old | Delhi/NCR +73 more,"Job Security, Company Culture, Work Life Balance",--
+872,Intel,4.3,Semiconductors | 10k-50k Employees | Public | 56 years old | Santa Clara +32 more,"Work Life Balance, Company Culture, Work Satisfaction",--
+873,Novo Nordisk,4.1,Pharma | 1k-5k Employees | Forbes Global 2000 | 101 years old | New York City +64 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+874,Chetu,3.3,Software Product | 1k-5k Employees | 24 years old | Sunrise +7 more,--,"Job Security, Work Life Balance, Salary & Benefits"
+875,Edelweiss Tokio Life Insurance,3.9,Insurance | 1k-5k Employees | 13 years old | Mumbai +114 more,--,--
+876,Softenger,4.3,IT Services & Consulting | 501-1k Employees | 25 years old | Pune +30 more,"Company Culture, Work Life Balance, Work Satisfaction",--
+877,Power Grid Corporation of India,4.4,Power | 5k-10k Employees | Fortune India 500 | 35 years old | Gurgaon/Gurugram +184 more,"Salary & Benefits, Company Culture, Work Life Balance",--
+878,Vertex Customer Solutions,3.6,IT Services & Consulting | 5k-10k Employees | 14 years old | Panchkula +32 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+879,OM Logistics,4.1,Logistics | 1k-5k Employees | 25 years old | Delhi/NCR +101 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+880,1point1 Solutions,3.4,BPO | 5k-10k Employees | Public | 16 years old | Navi Mumbai +14 more,--,"Salary & Benefits, Promotions / Appraisal, Work Satisfaction"
+881,Lemon Tree Hotels,4.2,Hospitality | 5k-10k Employees | Public | 22 years old | Delhi/NCR +63 more,"Job Security, Skill Development / Learning, Company Culture",--
+882,Vistaar Finance,4.2,NBFC | 1k-5k Employees | 14 years old | Bengaluru/Bangalore +166 more,"Company Culture, Salary & Benefits, Skill Development / Learning",--
+883,ReNew,4.3,Power | 1k-5k Employees | 13 years old | Gurgaon +75 more,"Job Security, Company Culture, Work Life Balance",--
+884,GAO Tek,4.5,Electrical Equipment | 201-500 Employees | 19 years old | New York +27 more,"Skill Development / Learning, Work Life Balance, Company Culture",Salary & Benefits
+885,Ceasefire Industries,3.3,Industrial Machinery | 1k-5k Employees | 22 years old | Noida +69 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+886,Medplus(optival Health Solutions),3.6,501-1k Employees | Fortune India 500 | 18 years old | Hyderabad +84 more,--,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+887,Hyundai Mobis,3.9,Auto Components | 1k-5k Employees | Forbes Global 2000 | 7 years old | Kanchipuram +41 more,"Job Security, Salary & Benefits",Promotions / Appraisal
+888,Nippon Paint India,4.1,Chemicals | 1k-5k Employees | Forbes Global 2000 | 143 years old | Osaka +118 more,"Skill Development / Learning, Work Life Balance",--
+889,V2 Retail,3.6,Retail | 1k-5k Employees | Public | 23 years old | Delhi/NCR +88 more,--,"Job Security, Company Culture, Work Satisfaction"
+890,Aerial Telecom Solutions,4.5,Telecom | 5k-10k Employees | 14 years old | Mohali +84 more,"Work Life Balance, Work Satisfaction, Company Culture",--
+891,Capacit'e Infraprojects,3.6,Engineering & Construction | 1k-5k Employees | Public | 12 years old | Mumbai +30 more,--,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+892,TechnipFMC,4.0,Industrial Machinery | 1k-5k Employees | 7 years old | Paris +40 more,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+893,Unicharm,4.2,Beauty & Personal Care | 1k-5k Employees | Forbes Global 2000 | 63 years old | Mita +139 more,"Job Security, Skill Development / Learning, Salary & Benefits",--
+894,Brillio,3.6,IT Services & Consulting | 1k-5k Employees | 10 years old | Edison +11 more,--,"Promotions / Appraisal, Job Security, Work Satisfaction"
+895,Provana,3.7,IT Services & Consulting | 1k-5k Employees | 13 years old | Lisle +5 more,--,Promotions / Appraisal
+896,ThyssenKrupp Industries India,4.1,Industrial Machinery | 1k-5k Employees | Conglomerate | 77 years old | Pune +44 more,"Job Security, Work Life Balance, Company Culture",--
+897,Muthoot Microfin,4.4,NBFC | 10k-50k Employees | 9 years old | Ernakulam +231 more,"Skill Development / Learning, Job Security, Company Culture",--
+898,Hindustan Zinc,3.9,Metals & Mining | 1k-5k Employees | Public | 58 years old | Udaipur +27 more,Salary & Benefits,"Work Life Balance, Company Culture, Job Security"
+899,Nykaa,3.5,Internet | 1k-5k Employees | Public | 12 years old | Mumbai +80 more,--,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+900,Kotak Mahindra Prime,4.1,NBFC | 5k-10k Employees | Public | 28 years old | Mumbai +121 more,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+901,Dana Anand,4.2,Auto Components | 1k-5k Employees | 31 years old | Delhi/NCR +37 more,"Skill Development / Learning, Company Culture, Job Security",--
+902,Hathway,3.7,Broadcasting | 501-1k Employees | 65 years old | Mumbai +47 more,--,"Promotions / Appraisal, Salary & Benefits, Job Security"
+903,Happiest Minds Technologies,3.9,IT Services & Consulting | 1k-5k Employees | Public | 13 years old | Bangalore +13 more,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+904,GEP Worldwide,3.8,IT Services & Consulting | 1k-5k Employees | 25 years old | Clark +10 more,"Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits"
+905,Qualcomm,3.9,Semiconductors | 10k-50k Employees | Forbes Global 2000 | 28 years old | San Diego +15 more,"Salary & Benefits, Company Culture",--
+906,Intex Technologies,3.6,Consumer Electronics & Appliances | 1k-5k Employees | Public | 28 years old | Delhi/NCR +71 more,--,"Job Security, Promotions / Appraisal, Company Culture"
+907,United Alliance Technology,4.9,IT Services & Consulting | Pune +9 more,"Company Culture, Work Life Balance, Work Satisfaction",--
+908,TEKsystems,3.5,IT Services & Consulting | 1k-5k Employees | 41 years old | Hanover +13 more,--,"Promotions / Appraisal, Job Security, Skill Development / Learning"
+909,Reliance AJIO,3.8,Internet | 1k-5k Employees | 8 years old | Bengaluru +189 more,--,Promotions / Appraisal
+910,CarDekho,3.7,Internet | 1k-5k Employees | Indian Unicorn | 16 years old | Jaipur +68 more,--,"Job Security, Promotions / Appraisal"
+911,CenturyPly,4.0,Furniture & Furnishing | 1k-5k Employees | Public | 38 years old | Kolkata +99 more,--,Promotions / Appraisal
+912,Bosch Chassis Systems,4.2,Auto Components | 1k-5k Employees | 73 years old | Gerlingen +21 more,"Company Culture, Skill Development / Learning, Work Satisfaction",Promotions / Appraisal
+913,Stanza Living,3.1,Internet | 501-1k Employees | Startup | 7 years old | Delhi +30 more,--,"Job Security, Promotions / Appraisal, Work Satisfaction"
+914,TK Elevator,4.0,Industrial Machinery | 1k-5k Employees | 29 years old | Essen +65 more,"Work Life Balance, Job Security",Promotions / Appraisal
+915,More Supermarket,3.9,Retail | 10k-50k Employees | 17 years old | Mumbai +124 more,--,"Promotions / Appraisal, Job Security"
+916,ZF Steering Gear,3.8,Auto Components | 501-1k Employees | Public | 109 years old | Pune +22 more,--,"Promotions / Appraisal, Salary & Benefits"
+917,Colliers International,4.0,Real Estate | 1k-5k Employees | 29 years old | Ontario +32 more,--,--
+918,TradeIndia (Infocom Network Private Limited),3.4,Internet | 1k-5k Employees | 28 years old | Noida +39 more,--,"Promotions / Appraisal, Job Security, Work Satisfaction"
+919,Apotex Research,4.2,Pharma | 201-500 Employees | 21 years old | Brantford +13 more,"Work Life Balance, Company Culture, Job Security",--
+920,Feedback Infrastructure Services,3.5,Engineering & Construction | 5k-10k Employees | 34 years old | Gurgaon/Gurugram +120 more,--,"Promotions / Appraisal, Salary & Benefits, Job Security"
+921,Karur Vysya Bank,3.8,Banking | 5k-10k Employees | Public | 108 years old | Karur +133 more,--,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+922,Tube Investments of India,4.0,Engineering & Construction | 1k-5k Employees | Public | 75 years old | Chennai +54 more,"Skill Development / Learning, Job Security, Work Life Balance",Promotions / Appraisal
+923,Pizza Hut,3.9,Hospitality | 1k-5k Employees | 66 years old | Plano +103 more,Skill Development / Learning,--
+924,Colgate Palmolive,4.2,FMCG | 1k-5k Employees | Public | 87 years old | New York +98 more,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+925,Spandana Sphoorty Financial,3.8,NBFC | 10k-50k Employees | Public | 26 years old | Hyderabad/Secunderabad +226 more,--,--
+926,Kinara Capital,4.5,FinTech | 1k-5k Employees | 13 years old | Bangalore +108 more,"Company Culture, Skill Development / Learning, Work Life Balance",--
+927,Syngenta,4.3,Agriculture | 1k-5k Employees | 24 years old | Basel +136 more,"Company Culture, Work Life Balance, Skill Development / Learning",--
+928,Acuity Knowledge Partners,3.5,Financial Services | 1k-5k Employees | 22 years old | London +12 more,Job Security,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+929,Kirloskar Brothers,4.1,Industrial Machinery | 1k-5k Employees | Public | 136 years old | Pune +57 more,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal
+930,Secure Meters,4.1,Electronics Manufacturing | 1k-5k Employees | Public | 37 years old | Udaipur +68 more,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+931,Diageo,4.1,Beverage | 1k-5k Employees | Public | 27 years old | London +83 more,"Work Life Balance, Salary & Benefits, Company Culture",Promotions / Appraisal
+932,Fidelity Investments,4.3,Financial Services | 5k-10k Employees | 78 years old | Boston +14 more,"Job Security, Company Culture, Work Life Balance",--
+933,Imperial Auto Industries,3.8,Auto Components | 1k-5k Employees | Public | 55 years old | Faridabad +33 more,Job Security,"Promotions / Appraisal, Salary & Benefits"
+934,Rashmi Metaliks,3.6,Iron & Steel | 1k-5k Employees | 20 years old | Kolkata +25 more,--,"Company Culture, Job Security, Work Satisfaction"
+935,Aditya Birla Finance,3.9,NBFC | 1k-5k Employees | 12 years old | Mumbai +145 more,"Salary & Benefits, Skill Development / Learning, Work Life Balance",--
+936,H.G. Infra Engineering,4.4,Engineering & Construction | 1k-5k Employees | Public | 21 years old | Jaipur +76 more,"Skill Development / Learning, Salary & Benefits, Company Culture",--
+937,Genius Consultants,3.8,Recruitment | 201-500 Employees | 31 years old | Kolkata +75 more,--,"Promotions / Appraisal, Salary & Benefits"
+938,Pristyn Care,3.6,Healthcare | 1k-5k Employees | Indian Unicorn | 6 years old | Delhi +26 more,--,"Work Life Balance, Job Security"
+939,Tata Chemicals,4.2,Chemicals | 1k-5k Employees | Public | 85 years old | Mumbai +78 more,"Job Security, Skill Development / Learning, Work Life Balance",--
+940,Sundaram Finance,4.2,NBFC | 1k-5k Employees | Public | 70 years old | Chennai +204 more,"Job Security, Company Culture, Work Life Balance",--
+941,Dassault Systemes,4.1,Software Product | 5k-10k Employees | Forbes Global 2000 | 43 years old | Velizy-villacoublay +8 more,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits"
+942,Ahluwalia Contracts India,4.1,Engineering & Construction | 1k-5k Employees | Public | 59 years old | Delhi/NCR +47 more,Job Security,Promotions / Appraisal
+943,Pricol,4.0,Auto Components | 1k-5k Employees | Public | 49 years old | Coimbatore +25 more,"Skill Development / Learning, Company Culture, Work Satisfaction",Promotions / Appraisal
+944,Shalby Hospitals,4.6,Healthcare | 1k-5k Employees | Public | 30 years old | Ahmedabad +23 more,"Skill Development / Learning, Company Culture, Work Life Balance",--
+945,Nilkamal,3.9,Furniture & Furnishing | 1k-5k Employees | Public | 43 years old | Mumbai +95 more,--,"Promotions / Appraisal, Salary & Benefits"
+946,Sundaram Clayton,4.1,Auto Components | 1k-5k Employees | Public | 62 years old | Chennai +24 more,"Skill Development / Learning, Salary & Benefits, Company Culture",--
+947,FLSmidth,3.7,Industrial Machinery | 1k-5k Employees | 142 years old | Copenhagen +19 more,Work Life Balance,"Job Security, Promotions / Appraisal, Salary & Benefits"
+948,VIP Industries,4.0,Retail | 1k-5k Employees | Public | 53 years old | Mumbai +83 more,--,Promotions / Appraisal
+949,PayPal,3.9,FinTech | 1k-5k Employees | Forbes Global 2000 | 26 years old | San Jose +11 more,"Salary & Benefits, Company Culture, Work Life Balance","Promotions / Appraisal, Job Security"
+950,SLK Global Services,3.9,BPO | 1k-5k Employees | 24 years old | Dallas +8 more,"Job Security, Company Culture","Salary & Benefits, Promotions / Appraisal"
+951,Gmmco,4.2,Industrial Machinery | 1k-5k Employees | 57 years old | Chennai +79 more,"Skill Development / Learning, Job Security, Work Satisfaction",--
+952,Incedo,3.4,IT Services & Consulting | 1k-5k Employees | 13 years old | Iselin +10 more,--,"Promotions / Appraisal, Work Satisfaction, Job Security"
+953,CALIBEHR,4.0,Recruitment | 10k-50k Employees | 45 years old | Mumbai +123 more,--,Promotions / Appraisal
+954,Orchids International School,3.0,Education & Training | 1k-5k Employees | 20 years old | Nasik/Nashik +26 more,--,"Promotions / Appraisal, Work Satisfaction, Job Security"
+955,eClinicalWorks,3.9,Software Product | 1k-5k Employees | 25 years old | Westborough +13 more,"Job Security, Salary & Benefits, Company Culture",Promotions / Appraisal
+956,Fusion Microfinance,4.1,NBFC | 10k-50k Employees | 14 years old | Delhi +201 more,"Job Security, Company Culture, Work Life Balance",--
+957,Visionet Systems,3.3,IT Services & Consulting | 1k-5k Employees | 29 years old | Cranbury +10 more,--,"Promotions / Appraisal, Job Security, Salary & Benefits"
+958,AstraZeneca,4.2,Pharma | 501-1k Employees | Public | 25 years old | Cambridge +39 more,"Work Life Balance, Company Culture, Job Security",--
+959,Nirma,4.3,FMCG | 10k-50k Employees | Fortune India 500 | 34 years old | Ahmedabad +54 more,"Job Security, Work Life Balance, Work Satisfaction",--
+960,Mahindra First Choice Wheels,3.9,Internet | 1k-5k Employees | 30 years old | Mumbai +107 more,--,Promotions / Appraisal
+961,Next Education India,3.8,EdTech | 1k-5k Employees | 17 years old | Hyderabad/Secunderabad +81 more,--,"Job Security, Promotions / Appraisal"
+962,Perfetti Van Melle,4.4,Food Processing | 1k-5k Employees | 23 years old | Lainate +124 more,"Company Culture, Skill Development / Learning, Work Satisfaction",--
+963,Egis  India Consulting Engineers,4.1,Engineering & Construction | 1k-5k Employees | 19 years old | Gurgaon/Gurugram +99 more,"Work Life Balance, Company Culture, Work Satisfaction",--
+964,JTEKT,4.2,Auto Components | 1k-5k Employees | Public | 18 years old | Osaka +23 more,"Job Security, Company Culture, Skill Development / Learning",--
+965,MakeMyTrip,3.7,Internet | 5k-10k Employees | Public | 24 years old | Gurgaon +37 more,--,Promotions / Appraisal
+966,KIMS Hospital,4.1,Healthcare | 1k-5k Employees | 12 years old | Hyderabad/Secunderabad +40 more,"Skill Development / Learning, Job Security, Work Life Balance",--
+967,LOREAL,4.1,Beauty & Personal Care | 1k-5k Employees | Forbes Global 2000 | 33 years old | Clichy +81 more,"Company Culture, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal
+968,Air India,4.1,Aviation | 10k-50k Employees | Central | 94 years old | Delhi/NCR +51 more,"Skill Development / Learning, Work Life Balance, Job Security",--
+969,Hikal,4.1,Pharma | 1k-5k Employees | 36 years old | Mumbai +18 more,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+970,Pacific BPO,3.6,BPO | 1k-5k Employees | 14 years old | Noida +14 more,--,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction"
+971,Caratlane Trading,4.3,Jewellery | 1k-5k Employees | 16 years old | Chennai +55 more,"Company Culture, Skill Development / Learning, Job Security",--
+972,VeeTechnologies,3.8,IT Services & Consulting | 1k-5k Employees | 24 years old | New York +25 more,Job Security,--
+973,MAHLE ANAND Filter Systems,4.1,Auto Components | 1k-5k Employees | 19 years old | Stuttgart +25 more,"Job Security, Company Culture, Work Life Balance",--
+974,Birla Corporation,4.2,Building Material | 5k-10k Employees | Public | 105 years old | Kolkata +110 more,"Job Security, Work Life Balance, Company Culture",--
+975,HFCL,4.2,Hardware & Networking | 1k-5k Employees | Public | 37 years old | Delhi/NCR +92 more,"Work Life Balance, Job Security, Skill Development / Learning",--
+976,INDO-MIM,4.3,Industrial Machinery | 1k-5k Employees | 26 years old | Bangalore/Bengaluru +20 more,"Job Security, Work Life Balance, Skill Development / Learning",--
+977,Teva Pharmaceuticals,4.2,Pharma | 1k-5k Employees | Forbes Global 2000 | 45 years old | Dublin +33 more,"Work Life Balance, Company Culture, Job Security",--
+978,Fluor Corporation,4.3,Forbes Global 2000 | Gurgaon / Gurugram +22 more,"Work Life Balance, Company Culture, Salary & Benefits",Job Security
+979,Vedanta Aluminium,3.9,Metals & Mining | 1k-5k Employees | 21 years old | Jharsuguda +31 more,"Salary & Benefits, Job Security","Work Satisfaction, Promotions / Appraisal, Work Life Balance"
